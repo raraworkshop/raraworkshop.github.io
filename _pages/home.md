@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
-title: "Visually Grounded Interaction and Language (ViGIL)"
+urltitle:  "Natural Language Reasoning and Structured Explanations Workshop"
+title: "Natural Language Reasoning and Structured Explanations Workshop"
 categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, naacl, 2021
 permalink: /
 bibtex: true
@@ -12,10 +12,9 @@ acknowledgements: ""
 <br />
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Visually Grounded Interaction and Language (ViGIL)</h1></center>
-    <center><h2>June 10, 2021. NAACL Workshop, Mexico City, Mexico.</h2></center>
-    <center><a href="https://underline.io/events/122/sessions?eventSessionId=4293" target="_blank">Underline Link</a> (NAACL Registration Required)</center>
-    <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
+    <center><h1>Natural Language Reasoning and Structured Explanations Workshop</h1></center>
+    <center><h2>Proposal for a Workshop at EACL / ACL / EMNLP 2023</h2></center>
+    </center>
   </div>
 </div>
 
