@@ -1,4 +1,4 @@
-# vigilworkshop.github.io
-Webpage source files for ViGIL 3.0 workshop at NeurIPS 2019
+# nl-reasoning-workshop.github.io
+Webpage source files for Natural Language Reasoning and Structured Explanations
 
-https://vigilworkshop.github.io/
+https://nl-reasoning-workshop.github.io/
