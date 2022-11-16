@@ -82,7 +82,7 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="https://images.ctfassets.net/wf5t1ptx352c/3rdT3e9TFqUOmWRDF3NeGp/249aa774b90ad70448710f4e27ba5388/IMG_4173-1_copy.jpg">Sarah Wiegreffe</a>
+      <a href="{{ "/static/img/people/sarah_wiegraffe.jpg" | prepend:site.baseurl }}">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
