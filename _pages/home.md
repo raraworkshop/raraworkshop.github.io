@@ -82,13 +82,13 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="https://pbs.twimg.com/profile_images/1534408723862544386/9gfH5YS5_400x400.jpg">Sarah Wiegreffe</a>
+      <a href="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=YoR3IugAAAAJ&citpid=1">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://fh295.github.io/">
-      <img class="people-pic" src="https://github.com/fh295/fh295.github.io/blob/master/felixhill.jpg">
+      <img class="people-pic" src="https://github.com/fh295/fh295.github.io/blob/master/felixhill.jpg?raw=true">
     </a>
     <div class="people-name">
       <a href="https://fh295.github.io/">Felix Hill</a>
@@ -134,38 +134,38 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.linkedin.com/in/drew-a-hudson">
-      <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.jasonwei.net/">
+      <img class="people-pic" src="https://images.squarespace-cdn.com/content/v1/633a6c0dd119b45af0d898c2/1226b6e8-1232-4d1f-aeb2-7c4a61657610/taverna.jpeg?format=500w">
     </a>
     <div class="people-name">
-      <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
-      <h6>Stanford</h6>
+      <a href="https://www.jasonwei.net/">Jason Wei</a>
+      <h6>Google Brain</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://jacobkrantz.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/jacobkrantz.jpg" | prepend:site.baseurl }}">
+    <a href="https://cognitiveai.org/">
+      <img class="people-pic" src="http://cognitiveai.org/wp-content/uploads/2016/10/peter_tedx-300x300.jpg">
     </a>
     <div class="people-name">
-      <a href="https://jacobkrantz.github.io/">Jacob Krantz</a>
-      <h6>Oregon State University</h6>
+      <a href="https://cognitiveai.org/">Peter Jansen</a>
+      <h6>University of Arizona</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cc.gatech.edu/~slee3191/">
-      <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
+    <a href="https://dnr2.github.io/academic_website/">
+      <img class="people-pic" src="https://dnr2.github.io/academic_website/images/profile.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
-      <h6>Oregon State University</h6>
+      <a href="https://dnr2.github.io/academic_website/">Danilo Ribeiro</a>
+      <h6>Northwestern University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://jiayuanm.com/">
-      <img class="people-pic" src="{{ "/static/img/people/jiayuanmao.jpg" | prepend:site.baseurl }}">
+    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+      <img class="people-pic" src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png">
     </a>
     <div class="people-name">
-      <a href="https://jiayuanm.com/">Jiayuan Mao</a>
+      <a href="https://web.mit.edu/zyzzyva/www/academic.html">Catherine Wong</a>
       <h6>MIT</h6>
     </div>
   </div>
