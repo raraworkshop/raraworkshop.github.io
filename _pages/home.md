@@ -169,36 +169,5 @@ acknowledgements: ""
       <h6>MIT</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://fstrub95.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://fstrub95.github.io/">Florian Strub</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://alanesuhr.com/">
-      <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://alanesuhr.com/">Alane Suhr</a>
-      <h6>Cornell</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://wijmans.xyz/">
-      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://wijmans.xyz/">Erik Wijmans</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-</div>
-
-
-
-
+  
 
