@@ -82,7 +82,7 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=YoR3IugAAAAJ&citpid=1">Sarah Wiegreffe</a>
+      <a href="https://avatars.githubusercontent.com/u/8027676?v=4">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
@@ -135,7 +135,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.jasonwei.net/">
-      <img class="people-pic" src="https://images.squarespace-cdn.com/content/v1/633a6c0dd119b45af0d898c2/1226b6e8-1232-4d1f-aeb2-7c4a61657610/taverna.jpeg?format=500w">
+      <img class="people-pic" src="https://miro.medium.com/max/2400/0*hXD0QnXdG8YVp2v3">
     </a>
     <div class="people-name">
       <a href="https://www.jasonwei.net/">Jason Wei</a>
