@@ -82,7 +82,7 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="https://avatars3.githubusercontent.com/u/8027676?v=4&s=400&u=536d74e214c65330066fe2ef88dd00194450a65c">Sarah Wiegreffe</a>
+      <a href="https://wevolver-project-images.s3.amazonaws.com/0.jvqqphhm3o037.v1.jpg">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
