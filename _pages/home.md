@@ -88,7 +88,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://fh295.github.io/">
-      <img class="people-pic" src="https://fh295.github.io/felix.png">
+      <img class="people-pic" src="https://github.com/fh295/fh295.github.io/blob/master/felixhill.jpg">
     </a>
     <div class="people-name">
       <a href="https://fh295.github.io/">Felix Hill</a>
