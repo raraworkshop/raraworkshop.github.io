@@ -64,7 +64,7 @@ acknowledgements: ""
       <img class="people-pic" src="https://dennyzhou.github.io/unnamed.jpeg">
     </a>
     <div class="people-name">
-      <a href=""https://dennyzhou.github.io/">Denny Zhou</a>
+      <a href="https://dennyzhou.github.io/">Denny Zhou</a>
       <h6>Google AI</h6>
     </div>
   </div>
