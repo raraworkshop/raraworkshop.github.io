@@ -82,7 +82,7 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="{{"https://avatars3.githubusercontent.com/u/8027676?v=4&s=400&u=536d74e214c65330066fe2ef88dd00194450a65c"}}">Sarah Wiegreffe</a>
+      <a href="https://pbs.twimg.com/profile_images/1534408723862544386/9gfH5YS5_400x400.jpg">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
