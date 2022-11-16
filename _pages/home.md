@@ -32,7 +32,7 @@ acknowledgements: ""
 
 <br />
 
-
+<hr />
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -82,7 +82,7 @@ acknowledgements: ""
       <img class="people-pic" src="">
     </a>
     <div class="people-name">
-      <a href="https://avatars.githubusercontent.com/u/8027676?v=4">Sarah Wiegreffe</a>
+      <a href="https://avatars3.githubusercontent.com/u/8027676?v=4&s=400&u=536d74e214c65330066fe2ef88dd00194450a65c">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
@@ -95,16 +95,6 @@ acknowledgements: ""
       <h6>DeepMind</h6>
     </div>
   </div>
-
-<hr />
-
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-    <p>TBD.</p>
-  </div>
-</div>
-
 
 <hr />
 
@@ -170,4 +160,14 @@ acknowledgements: ""
     </div>
   </div>
   
+  
+<hr />
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+    <p>TBD.</p>
+  </div>
+</div>
 
+
+<hr />
