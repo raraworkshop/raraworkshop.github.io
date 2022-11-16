@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Natural Language Reasoning and Structured Explanations Workshop</h1></center>
-    <center><h2>Proposal for a Workshop at EACL / ACL / EMNLP 2023</h2></center>
+    <center><h2>Planned Workshop at EACL / ACL / EMNLP 2023</h2></center>
  
     
     
@@ -116,21 +116,21 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://catalinacangea.netlify.app/">
-      <img class="people-pic" src="{{ "/static/img/people/catalinacangea.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.cs.utexas.edu/~gdurrett//">
+      <img class="people-pic" src="https://www.cs.utexas.edu/~gdurrett/photo.png">
     </a>
     <div class="people-name">
-      <a href="https://catalinacangea.netlify.app/">Cătălina Cangea</a>
-      <h6>University of Cambridge</h6>
+      <a href="https://www.cs.utexas.edu/~gdurrett/">Greg Durrett</a>
+      <h6>University of Texas, Austin</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://abhishekdas.com">
-      <img class="people-pic" src="{{ "/static/img/people/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
+    <a href="https://allenai.org/team/bhavanad/">
+      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
     </a>
     <div class="people-name">
-      <a href="https://abhishekdas.com">Abhishek Das</a>
-      <h6>Facebook AI Research</h6>
+      <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi</a>
+      <h6>Allen Institute for AI</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
