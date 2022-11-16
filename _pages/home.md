@@ -79,10 +79,10 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sarahwie.github.io/">
-      <img class="people-pic" src="">
+      <img class="people-pic" src="{{ "/static/img/people/sarah_wiegraffe.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="{{ "/static/img/people/sarah_wiegraffe.jpg" | prepend:site.baseurl }}">Sarah Wiegreffe</a>
+      <a href="https://sarahwie.github.io/">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
     </div>
   </div>
