@@ -159,39 +159,6 @@ acknowledgements: ""
       <h6>MIT</h6>
     </div>
   </div>
-  
-  
-<hr />
-
-<div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>April 24, 2023 (All deadlines are 11:59 PM AoE time.)</td>
-        </tr>
-        <tr>
-          <td>Decision Notifications</td>
-          <td>May 22, 2023</td>
-        </tr>
-        <tr>
-          <td>Camera Ready Paper Deadline</td>
-          <td>June 6, 2023 (11:59 PM Pacific time)</td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>(TBD. ACL workshops will take place on July 13-14, 2023)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 
 <hr />
 <div class="row" id="cfp">
@@ -257,3 +224,33 @@ Applications of natural language reasoning: New QA settings, language grounding,
 </div>
 </div>
 <hr />
+  
+<div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>April 24, 2023 (All deadlines are 11:59 PM AoE time.)</td>
+        </tr>
+        <tr>
+          <td>Decision Notifications</td>
+          <td>May 22, 2023</td>
+        </tr>
+        <tr>
+          <td>Camera Ready Paper Deadline</td>
+          <td>June 6, 2023 (11:59 PM Pacific time)</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>(TBD. ACL workshops will take place on July 13-14, 2023)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
