@@ -225,8 +225,36 @@ Applications of natural language reasoning: New QA settings, language grounding,
  </ul>
   </div>
 </div>
-
 <hr />
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+      We welcome two types of papers: regular workshop papers and non-archival submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through the Softconf website set up for this workshop (<a style="color:#2980b9;font-weight:400;" href="https://nl-reasoning-workshop.github.io/">coming soon</a>). In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content.
+        </p>
+    <ul>
+      <li><b>Regular workshop papers</b>: Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings.
+</li>
+      <li><b>Non-archival submissions</b>: We also solicit cross-submissions, i.e., papers on relevant topics that <i>have appeared</i> in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the <b>NLReasoning</b> audience. Interested authors should submit their papers in PDF format through the <b>NLReasoning</b> Softconf website, with a note on the original venue. They will be reviewed in a <b>single-blind</b> fashion. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee.</li>
+    </ul>
+    <p>
+        In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.
+    </p>
+    
+     <p>
+     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href="https://nl-reasoning-workshop.github.io/">coming soon</a>), please select the “Submission Type” properly based on the guidelines.</b>
+     </p>
+      
+     <p>
+     For questions about the submission guidelines, please contact workshop organizers via <a href="mailto:nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
+     </p>
+    </div>
+</div>
 
 
 <hr />
