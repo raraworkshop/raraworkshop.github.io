@@ -243,18 +243,8 @@ Applications of natural language reasoning: New QA settings, language grounding,
       <li><b>Non-archival submissions</b>: We also solicit cross-submissions, i.e., papers on relevant topics that <i>have appeared</i> in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the <b>NLReasoning</b> audience. Interested authors should submit their papers in PDF format through the <b>NLReasoning</b> Softconf website, with a note on the original venue. They will be reviewed in a <b>single-blind</b> fashion. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee.</li>
     </ul>
     <p>
-        In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.
-    </p>
-    
-     <p>
-     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href="https://nl-reasoning-workshop.github.io/">coming soon</a>), please select the “Submission Type” properly based on the guidelines.</b>
-     </p>
+        In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
       
-     <p>
-     For questions about the submission guidelines, please contact workshop organizers via <a href="mailto:nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
-     </p>
-    </div>
 </div>
-
-
+</div>
 <hr />
