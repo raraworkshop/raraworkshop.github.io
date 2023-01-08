@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Natural Language Reasoning and Structured Explanations Workshop</h1></center>
-    <center><h2>Planned Workshop at EACL / ACL / EMNLP 2023</h2></center>
+    <center><h2>July 13-14, 2023 @ ACL 2023. Toronto, Canada.</h2></center>
  
     
     
@@ -155,19 +155,78 @@ acknowledgements: ""
       <img class="people-pic" src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png">
     </a>
     <div class="people-name">
-      <a href="https://web.mit.edu/zyzzyva/www/academic.html">Catherine Wong</a>
+      <a href="https://web.mit.edu/zyzzyva/www/academic.html">Lionel Wong</a>
       <h6>MIT</h6>
     </div>
   </div>
   
   
 <hr />
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-    <p>TBD.</p>
+
+<div class="col-xs-12">
+    <h2>Important Dates</h2>
   </div>
 </div>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>April 24, 2023 (All deadlines are 11:59 PM AoE time.)</td>
+        </tr>
+        <tr>
+          <td>Decision Notifications</td>
+          <td>May 22, 2023</td>
+        </tr>
+        <tr>
+          <td>Camera Ready Paper Deadline</td>
+          <td>June 6, 2023 (11:59 PM Pacific time)</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>(TBD. ACL workshops will take place on July 13-14, 2023)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      We welcome submissions on all topics related to natural language reasoning or structured explanations, which might include:
+    </p>
+    <p>
+  <ul>
+  <li>Multi-step natural language reasoning;</li>
+  <li>Structured explanations;</li>
+  <li>Foundations of natural language reasoning;</li>
+  <li>Applications of natural language reasoning;</li>
+  <li>Knowledge retrieval for multi-step reasoning;</li>
+  <li>Reasoning as programs;</li>
+          </ul>
+      </p>
+      <p>With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened, including tasks requiring increasingly complex reasoning. Although LLMs have shown remarkable performance, it is still unclear how to best elicit this reasoning and how the answers that models give follow from what they "know." This workshop aims to bring together a diverse set of perspectives and attempt to establish common ground for how various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond. As such, the workshop welcomes and covers a wide range of topics, including (non-exclusively):</p>
+  
+  <ul>
+    <li><b>Multi-step natural language reasoning: </b>Solving reasoning problems, such as those involving abstract manipulations, has been a long-standing challenge in the field of artificial intelligence. Large language models have recently achieved a new state-of-the-art performance on many reasoning benchmarks, often with approaches only requiring prompting. Current research frontiers are exploring what kinds of explanation formats are most effective, how reasoning is most effectively broken down, how to get language models to plan their reasoning, and what resources can be used to improve reasoning capabilities of language models. Tasks include mathematical reasoning, logical reasoning, commonsense reasoning, and more.</li>
+  <li><b>Structured explanations: </b>Explanations for these complex tasks are typically composed of two or more facts that are used to help the reasoning process while also providing a record of the path taken to arrive at an inference. What representations can be best used by inference algorithms to construct large explanations? Frontiers of research include exploring search algorithms over such representations, how to represent annotations at scale and continual learning models.</li>
+  <li><b>Foundations of natural language reasoning: </b>Does the structured reasoning constitute a plausible (interpretable to humans) and faithful (true to the model's processes) explanation? Does perturbing the reasoning lead to correctly modified behavior?
+Applications of natural language reasoning: New QA settings, language grounding, explainable diagnosis systems, theorem provers using natural language, reasoning for scientific discovery, and more.</li>
+  <li><b>Knowledge retrieval for multi-step reasoning: </b>It has been shown that LLMs can store factual knowledge implicitly in their parameters, however, their ability to access and manipulate knowledge is still limited. Future avenues of research include effective methods to combine parametric and non-parametric knowledge for complex reasoning, conditioning  retrieval given intermediate reasoning context, retrieving better provenance for structured explanations.</li>
+  <li><b>Reasoning as programs: </b>Another body of work within computational cognitive science and AI has formalized reasoning as inference over programs, building on classical views of human reasoning in a symbol-like language of thought and linguistic semantics with logical languages. Language models of code to produce structured reasoning for commonsense problems or other similar approaches are all in scope here.</li>
+ </ul>
+  </div>
+</div>
+
+<hr />
 
 
 <hr />
