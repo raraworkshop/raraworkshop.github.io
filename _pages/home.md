@@ -214,7 +214,7 @@ Applications of natural language reasoning: New QA settings, language grounding,
         In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
    
    <p>
-     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href="https://nl-reasoning-workshop.github.io/">coming soon</a>), please select the “Submission Type” properly based on the guidelines.
+     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">here</a>), please select the “Submission Type” properly based on the guidelines.
 </b></p>
    <p>
    For questions about the submission guidelines, please contact workshop organizers via <a href="nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
