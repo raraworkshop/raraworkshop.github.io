@@ -163,7 +163,7 @@ Applications of natural language reasoning: New QA settings, language grounding,
 </div>
 <hr />
   
-<div class="col-xs-12">
+<div class="col-xs-12"  id="dates">
     <h2>Important Dates</h2>  
 </div>
 
