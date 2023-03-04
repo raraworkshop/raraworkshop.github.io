@@ -22,7 +22,7 @@ body *::selection {
   width: 100%;
 }
 
-h1,h2,h3 {
+h1 h2 h3 {
   color: #1a1a1a;
   font-weight: 300;
 }
@@ -64,8 +64,6 @@ img {
   max-width: 100%;
 }
 
-
-
 p {
   text-align: justify;
 }
@@ -76,8 +74,23 @@ a {
   color: inherit;
 }
 
+#title {
+  background-image: url("../img/background/blue_abstract_crop.jpg");  
+  background-size: cover;
+  padding: 50px 0px;
+}
+
+#title h1 {
+  color:  #fff;
+}
+
+#title h2 {
+  color:  #fff;
+}
+
 .navbar a {
   border-bottom: 0;
+  font-size: 18px;
 }
 
 p.lead.authors a {
@@ -130,19 +143,20 @@ pre {
 }
 
 .people-pic {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
 .people-name {
-  margin: 5px 0 10px;
+  font-size: 20px;
+  margin: 5px 0 25px;
 }
 
 .people-name h6 {
-  margin: 2px 0;
+  margin: 7px 0;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 #sequence {
@@ -228,4 +242,8 @@ pre {
 
 #timezone-select {
   margin-bottom:  10px;
+}
+
+.title {
+  width: 100%;
 }
