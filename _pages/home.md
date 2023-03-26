@@ -52,7 +52,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://cs.brown.edu/people/epavlick/">
-      <img class="people-pic" src="https://cs.brown.edu/people/epavlick/profile-pic-circle.gif">
+      <img class="people-pic" src="http://cs.brown.edu/people/epavlick/profile-pic-circle.gif">
     </a>
     <div class="people-name">
       <a href="https://cs.brown.edu/people/epavlick/">Ellie Pavlick</a>
@@ -186,7 +186,7 @@ Applications of natural language reasoning: New QA settings, language grounding,
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>(TBD. ACL workshops will take place on July 13-14, 2023)</td>
+          <td>Thursday, 13 July 2023</td>
         </tr>
       </tbody>
     </table>
