@@ -53,9 +53,11 @@ def output_papers_formatted(papers_dict):
         for paper in papers_sorted:
             html += "\n<li>\n"
             # Paper title
-            html += '<span class="paper-title">' + format_submission_type(paper) + paper['title'] + '</span><br>\n'
+            html += '<span class="paper-title">' + paper['title'] + '</span><br>\n'
 
             html += f'<span class="paper-authors">{paper["authors"]}</span><br>\n'
+
+            html += '<span class="paper-type">' + format_submission_type(paper) + '</span><br>\n'
             html += "\n</li>\n"
         html += "</ul>\n\n"
     print(html)
