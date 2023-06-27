@@ -46,7 +46,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session</td></tr>
+    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session 1</td></tr>
     <tr> <th scope="row" data-time="08:50">09:00 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:10">09:10 AM</th> <td>
       Invited Speaker: Ellie Pavlick<br />Mechanistic Evidence of Structured Reasoning in LLMs
@@ -77,7 +77,7 @@ acknowledgements: ""
         Abstract: We develop a symbolic planning-based decoder to improve the few-shot semantic parsing of instructional texts. The system takes long-form instructional texts as input and produces sequences of actions in a formal language that enable execution of the instructions. This task poses unique challenges since input texts may contain long context dependencies and ambiguous and domain-specific language. Valid semantic parses also require sequences of steps that constitute an executable plan. We build on recent progress in semantic parsing by leveraging large language models to learn parsers from small amounts of training data. During decoding, our method employs planning methods and domain information to rank and correct candidate parses. To validate our method, we evaluate on four domains: two household instruction-following domains and two cooking recipe interpretation domains. We present results for few-shot semantic parsing using leave-one-out cross-validation. We show that utilizing planning domain information improves the quality of generated plans. Through ablations we also explore the effects of our decoder design choices.
       </div>
     </td></tr>
-    <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 (See posters below)</td></tr>
+    <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 / Virtual Poster Session 2(See posters below)</td></tr>
     <tr> <th scope="row" data-time="12:25">12:25 PM</th> <td>Lunch</td> </tr>
     <tr> <th scope="row" data-time="13:30">13:30 PM</th> <td>In-Person Poster Session 2 (See posters below)</td> </tr>
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>
@@ -191,70 +191,441 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="cfp">
+<div class="row" id="accepted">
   <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+    <h2>Accepted Papers</h2>
+    <p>Note: 2 additional papers were accepted but are not listed here because of an anonymity period.</p>
   </div>
 </div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      We welcome submissions on all topics related to natural language reasoning or structured explanations, which might include:
-    </p>
-    <p>
-  <ul>
-  <li>Multi-step natural language reasoning;</li>
-  <li>Structured explanations;</li>
-  <li>Foundations of natural language reasoning;</li>
-  <li>Applications of natural language reasoning;</li>
-  <li>Knowledge retrieval for multi-step reasoning;</li>
-  <li>Reasoning as programs;</li>
-          </ul>
-      </p>
-      <p>With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened, including tasks requiring increasingly complex reasoning. Although LLMs have shown remarkable performance, it is still unclear how to best elicit this reasoning and how the answers that models give follow from what they "know." This workshop aims to bring together a diverse set of perspectives and attempt to establish common ground for how various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond. As such, the workshop welcomes and covers a wide range of topics, including (non-exclusively):</p>
-  
-  <ul>
-    <li><b>Multi-step natural language reasoning: </b>Solving reasoning problems, such as those involving abstract manipulations, has been a long-standing challenge in the field of artificial intelligence. Large language models have recently achieved a new state-of-the-art performance on many reasoning benchmarks, often with approaches only requiring prompting. Current research frontiers are exploring what kinds of explanation formats are most effective, how reasoning is most effectively broken down, how to get language models to plan their reasoning, and what resources can be used to improve reasoning capabilities of language models. Tasks include mathematical reasoning, logical reasoning, commonsense reasoning, and more.</li>
-  <li><b>Structured explanations: </b>Explanations for these complex tasks are typically composed of two or more facts that are used to help the reasoning process while also providing a record of the path taken to arrive at an inference. What representations can be best used by inference algorithms to construct large explanations? Frontiers of research include exploring search algorithms over such representations, how to represent annotations at scale and continual learning models.</li>
-  <li><b>Foundations of natural language reasoning: </b>Does the structured reasoning constitute a plausible (interpretable to humans) and faithful (true to the model's processes) explanation? Does perturbing the reasoning lead to correctly modified behavior?
-Applications of natural language reasoning: New QA settings, language grounding, explainable diagnosis systems, theorem provers using natural language, reasoning for scientific discovery, and more.</li>
-  <li><b>Knowledge retrieval for multi-step reasoning: </b>It has been shown that LLMs can store factual knowledge implicitly in their parameters, however, their ability to access and manipulate knowledge is still limited. Future avenues of research include effective methods to combine parametric and non-parametric knowledge for complex reasoning, conditioning  retrieval given intermediate reasoning context, retrieving better provenance for structured explanations.</li>
-  <li><b>Reasoning as programs: </b>Another body of work within computational cognitive science and AI has formalized reasoning as inference over programs, building on classical views of human reasoning in a symbol-like language of thought and linguistic semantics with logical languages. Language models of code to produce structured reasoning for commonsense problems or other similar approaches are all in scope here.</li>
- </ul>
-  </div>
-</div>
-<hr />
-<!-- Submission -->
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-      We welcome two types of papers: regular workshop papers and non-archival submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through <a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">Softconf</a>. In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content.
-        </p>
-    <ul>
-      <li><b>Regular workshop papers</b>: Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings.
-</li>
-      <li><b>Non-archival submissions</b>: We also solicit cross-submissions, i.e., papers on relevant topics that <i>have appeared</i> in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the <b>NLReasoning</b> audience. Interested authors should submit their papers in PDF format through the <b>NLReasoning</b> Softconf website, with a note on the original venue. They will be reviewed in a <b>single-blind</b> fashion. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee.</li>
-    </ul>
-    <p>
-        In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
-   
-   <p>
-     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">here</a>), please select the “Submission Type” properly based on the guidelines.
-</b></p>
-   <p>
-   For questions about the submission guidelines, please contact workshop organizers via <a href="nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
+<h3>Virtual Poster Session 1</h3>
+<ul class="paper-list">
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Case-Based Reasoning with Language Models for Classification of Logical Fallacies</span><br>
+<span class="paper-authors">Zhivar Sourati, Filip Ilievski, Hông-Ân Sandlin and Alain Mermoud</span><br>
 
-     </p>
-      
-</div>
-</div>
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Choice-75: A Dataset on Decision Branching in Script Learning</span><br>
+<span class="paper-authors">Zhaoyi Hou, Li Zhang and Chris Callison-Burch</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering</span><br>
+<span class="paper-authors">Qianglong Chen, Guohai Xu, Mingshi Yan, J. Zhang, Fei Huang, Luo Si, Yin Zhang</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning</span><br>
+<span class="paper-authors">Zihang Xu, Ziqing Yang, Yiming Cui, Shijin Wang</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Investigating Transformer-Guided Chaining for Interpretable Natural Logic Reasoning</span><br>
+<span class="paper-authors">Kanagasabai Rajaraman, Saravanan Rajamanickam, Wei Shi</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>QAMPARI: A Benchmark for Open-domain Questions with Many Answers</span><br>
+<span class="paper-authors">Samuel Amouyal, Tomer Wolfson, Ohad Rubin, Ori Yoran, Jonathan Herzig and Jonathan Berant </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries</span><br>
+<span class="paper-authors">Chau Nguyen, Tim French, Wei Liu, Michael Stewart</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension</span><br>
+<span class="paper-authors">Yuqi Bu, Xin Wu, Liuwu Li, Yi Cai, Qingbao Huang, Qiong Liu</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study</span><br>
+<span class="paper-authors">Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar and Bryan Catanzaro </span><br>
+
+</li>
+</ul>
+
+<h3>Virtual Poster Session 2</h3>
+<ul class="paper-list">
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Grounded physical language understanding with probabilistic programs and simulated worlds</span><br>
+<span class="paper-authors">Cedegao Zhang, Lionel Wong, Gabriel Grand and Josh Tenenbaum</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Hierarchical Prompting Assists Large Language Model on Web Navigation</span><br>
+<span class="paper-authors">Chi-Fan Lo, Abishek Sridhar, Hao Zhu, Frank F. Xu and Shuyan Zhou </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Interpretable Multimodal Misinformation Detection with Logic Reasoning</span><br>
+<span class="paper-authors">Hui Liu, Wenya Wang, Haoliang Li</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Logical Reasoning over Natural Language as Knowledge Representation: A Survey</span><br>
+<span class="paper-authors">Zonglin Yang, Xinya Du, Rui Mao, Jinjie Ni and Erik Cambria</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Negated Complementary Commonsense using Large Language Models</span><br>
+<span class="paper-authors">Navid Rezaei and Marek Reformat </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models</span><br>
+<span class="paper-authors">Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz and Mona Diab </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference</span><br>
+<span class="paper-authors">Sushma Anand Akoju, Robert Vacareanu, Eduardo Blanco, Haris Riaz and Mihai Surdeanu </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Tab-CoT: Zero-shot Tabular Chain of Thought</span><br>
+<span class="paper-authors">Jin Ziqi, Wei Lu</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Teaching Large Language Models to Self-Debug</span><br>
+<span class="paper-authors">Xinyun Chen, Maxwell Lin, Nathanael Schaerli and Denny Zhou </span><br>
+
+</li>
+</ul>
+
+<h3>In-Person Poster Session 1</h3>
+<ul class="paper-list">
+<li>
+<span class="paper-title"><span>[Archival]</span>A smashed glass cannot be full: Generation of Commonsense Explanations through Prompt-based Few-shot Learning</span><br>
+<span class="paper-authors">Andrea Zaninello and Bernardo Magnini</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Answering Questions by Meta-Reasoning over Multiple Chains of Thought</span><br>
+<span class="paper-authors">Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch and Jonathan Berant </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Causal Reasoning of Entities and Events in Procedural Texts</span><br>
+<span class="paper-authors">Li Zhang, Hainiu Xu, Yue Yang, Shuyan Zhou, Weiqiu You, Manni Arora and Chris Callison-Burch</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>DREAM: Improving Situational QA by First Elaborating the Situation</span><br>
+<span class="paper-authors">Yuling Gu, Bhavana Dalvi Mishra and Peter Clark</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Designing harder benchmarks for evaluating zero-shot generalizability in Question Answering over Knowledge Bases</span><br>
+<span class="paper-authors">Ritam Dutt, Sopan Khosla, Vinayshekhar Bannihatti Kumar and Rashmi Gangadharaiah </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes</span><br>
+<span class="paper-authors">Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Effect Graph: Effect Relation Extraction for Explanation Generation</span><br>
+<span class="paper-authors">Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Evaluating statistical language models as pragmatic reasoners</span><br>
+<span class="paper-authors">Benjamin Lipkin, Lionel Wong, Gabriel Grand and Josh Tenenbaum</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Examining the Emergence of Deductive Reasoning in Generative Language Models</span><br>
+<span class="paper-authors">Peter Belcak, Luca Lanzendörfer and Roger Wattenhofer</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Explanation Regeneration via Information Bottleneck</span><br>
+<span class="paper-authors">Qintong Li, Zhiyong Wu, Lingpeng Kong, Wei Bi</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context</span><br>
+<span class="paper-authors">Moxin Li, Wenjie Wang, Fuli Feng, Hanwang Zhang, Qifan Wang, Tat-Seng Chua</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors</span><br>
+<span class="paper-authors">Tuhin Chakrabarty, Arkadiy Saakyan, Olivia Winn, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, Smaranda Muresan</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Interpretable Math Word Problem Solution Generation Via Step-by-step Planning</span><br>
+<span class="paper-authors">Mengxue Zhang, Zichao Wang, Zhichao Yang, Weiqi Feng and Andrew Lan</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span>Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering</span><br>
+<span class="paper-authors">Jinheon Baek, Alham Fikri Aji and Amir Saffari </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models</span><br>
+<span class="paper-authors">Victor Bursztyn, David Demeter, Doug Downey and Larry Birnbaum</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales</span><br>
+<span class="paper-authors">Peifeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen and Xiang Ren</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Reasoning Circuits: Few-shot Multi-hop Question Generation with Structured Rationales</span><br>
+<span class="paper-authors">Saurabh Kulshreshtha and Anna Rumshisky</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Reasoning in Large Language Models Through Symbolic Math Word Problems</span><br>
+<span class="paper-authors">Vedant Gaur, Nikunj Saunshi</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Reasoning with Language Model Prompting: A Survey</span><br>
+<span class="paper-authors">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang and Huajun Chen</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models</span><br>
+<span class="paper-authors">Soochan Lee, Gunhee Kim</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Reimagining Retrieval Augmented Language Models for Answering  Queries</span><br>
+<span class="paper-authors">Wang-Chiew Tan, Yuliang Li, Pedro Rodriguez, Richard James, Xi Victoria Lin, Alon Halevy, Wen-tau Yih</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>STREET: A Multi-Task Structured Reasoning and Explanation Benchmark</span><br>
+<span class="paper-authors">Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Henghui Zhu, Rui Dong, Deguang Kong, Juliette Burger, Anjelica Ramos, William Yang Wang, zhiheng huang, George Karypis, Bing Xiang and Dan Roth</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning</span><br>
+<span class="paper-authors">Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric Xing</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code</span><br>
+<span class="paper-authors">Xiao Liu, Da Yin, Chen Zhang, Yansong Feng and Dongyan Zhao</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>The Role of Semantic Parsing in Understanding Procedural Text</span><br>
+<span class="paper-authors">Hossein Rajaby Faghihi, Parisa Kordjamshidi, Choh Man Teng and James Allen</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Towards Reasoning in Large Language Models: Survey, Implication, and Reflection</span><br>
+<span class="paper-authors">Jie Huang and Kevin Chen-Chuan Chang</span><br>
+
+</li>
+</ul>
+
+<h3>In-Person Poster Session 2</h3>
+<ul class="paper-list">
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Beyond Vertical Thinking: Exploring and Quantifying Lateral Thinking in Pretrained Language Models</span><br>
+<span class="paper-authors">Wenjuan Han, Yueting Yang Yijie Chen, Fandong Meng, Jie Zhou, Jinan Xu</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span>Can In-context Learners Learn a Reasoning Concept from Demonstrations?</span><br>
+<span class="paper-authors">Michal Štefánik and Marek Kadlcik</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction</span><br>
+<span class="paper-authors">Martin Fajcik, Petr Motlicek, Pavel Smrz</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Complementary Explanations for Effective In-Context Learning</span><br>
+<span class="paper-authors">Xi Ye, Srinivasan Iyer, Asli Celikyilmaz, Veselin Stoyanov, Greg Durrett and Ramakanth Pasunuru</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Deductive Additivity for Planning of Natural Language Proofs</span><br>
+<span class="paper-authors">Zayne Sprague, Kaj Bostrom, Swarat Chaudhuri and Greg Durrett</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Distilling Reasoning Capabilities into Smaller Language Model</span><br>
+<span class="paper-authors">Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes</span><br>
+<span class="paper-authors">Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuah Yeh, Hootan Nakhost, Yasuhisa Fujii, Alex Ratner, Ranjay Krishna, Chen-Yu Lee and Tomas Pfister</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Explaining Competitive-Level Programming Solutions using LLMs</span><br>
+<span class="paper-authors">Jierui Li, Szymon Tworkowski, Yingying Wu and Raymond Mooney</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span>Exploring the Curious Case of Code Prompts</span><br>
+<span class="paper-authors">Li Zhang, Liam Dugan, Hainiu Xu and Chris Callison-Burch</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Exploring the Effectiveness of Prompt Engineering for Legal Reasoning Tasks</span><br>
+<span class="paper-authors">Fangyi Yu, Lee Quartey, Frank Schilder</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Faithful Chain-of-Thought Reasoning</span><br>
+<span class="paper-authors">Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki and Chris Callison-Burch (lyuqing@seas.upenn.edu)</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Few Shot Rationale Generation using Self-Training with Dual Teachers</span><br>
+<span class="paper-authors">Aditya Srikanth Veerubhotla, Lahari Poddar, Jun Yin, György Szarvas, Sharanya Eswaran</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI</span><br>
+<span class="paper-authors">Alex Mei, Sharon Levy, William Yang Wang</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Generative Multi-hop Retrieval</span><br>
+<span class="paper-authors">Hyunji Lee, Sohee Yang, hanseok Oh and Minjoon Seo</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>HeGeL: A Novel Dataset for Hebrew Geo-Location</span><br>
+<span class="paper-authors">Tzuf Paz-Argaman, Tal Bauman, Itai Mondshine, Itzhak Omer, Sagi Dalyot, Reut Tsarfaty</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>How Many Answers Should I Give? An Empirical Study of Multi-Answer Reading Comprehension</span><br>
+<span class="paper-authors">Chen Zhang, Jiuheng Lin, Xiao Liu, Yuxuan Lai, Yansong Feng, Dongyan Zhao</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors</span><br>
+<span class="paper-authors">Tuhin Chakrabarty, Arkadiy Saakyan, Olivia Winn, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki and Smaranda Muresan</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Knowledge Graph-augmented Language Models for Complex Question Answering</span><br>
+<span class="paper-authors">Priyanka Sen, Sandeep Mavadia and Amir Saffari</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[ACL Findings]</span>LaSQuE: Improved Zero-Shot Classification from Explanations Through Quantifier Modeling and Curriculum Learning</span><br>
+<span class="paper-authors">Sayan Ghosh, Rakesh R. Menon, Shashank Srivastava</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Let's Sample Step-by-Step: Adaptive-Consistency for Efficient Reasoning with LLMs</span><br>
+<span class="paper-authors">Pranjal Aggarwal, Aman Madaan, Yiming Yang and Mausam</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Neural-symbolic Contrastive Learning for Cross-domain Inference</span><br>
+<span class="paper-authors">Mingyue Liu, Jialin Yu, Hao Cui, Sara Uckelman and Yang Long </span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>SCOTT: Self-Consistent Chain-of-Thought Distillation</span><br>
+<span class="paper-authors">Peifeng Wang, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin and Xiang Ren</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Archival]</span>Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods</span><br>
+<span class="paper-authors">Nils Feldhus, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller (nils.feldhus@dfki.de)</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span>[Non-Archival]</span>Situated Natural Language Explanations</span><br>
+<span class="paper-authors">Zining Zhu, Haoming Jiang, Jingfeng Yang, Sreyashi Nag, Chao Zhang, Jie Huang, Yifan Gao, Frank Rudzicz and Bing Yin (zining@cs.toronto.edu)	</span><br>
+
+</li>
+
+<li>
+<span class="paper-title"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span>Using Planning to Improve Semantic Parsing of Instructional Texts</span><br>
+<span class="paper-authors">Vanya Cohen and Raymond Mooney</span><br>
+
+</li>
+</ul>
+
+
 <hr />
-  
+
 <div class="col-xs-12"  id="dates">
     <h2>Important Dates</h2>  
 </div>
@@ -353,3 +724,69 @@ Applications of natural language reasoning: New QA settings, language grounding,
   </div>
 </div>
 
+
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      We welcome submissions on all topics related to natural language reasoning or structured explanations, which might include:
+    </p>
+    <p>
+  <ul>
+  <li>Multi-step natural language reasoning;</li>
+  <li>Structured explanations;</li>
+  <li>Foundations of natural language reasoning;</li>
+  <li>Applications of natural language reasoning;</li>
+  <li>Knowledge retrieval for multi-step reasoning;</li>
+  <li>Reasoning as programs;</li>
+          </ul>
+      </p>
+      <p>With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened, including tasks requiring increasingly complex reasoning. Although LLMs have shown remarkable performance, it is still unclear how to best elicit this reasoning and how the answers that models give follow from what they "know." This workshop aims to bring together a diverse set of perspectives and attempt to establish common ground for how various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond. As such, the workshop welcomes and covers a wide range of topics, including (non-exclusively):</p>
+  
+  <ul>
+    <li><b>Multi-step natural language reasoning: </b>Solving reasoning problems, such as those involving abstract manipulations, has been a long-standing challenge in the field of artificial intelligence. Large language models have recently achieved a new state-of-the-art performance on many reasoning benchmarks, often with approaches only requiring prompting. Current research frontiers are exploring what kinds of explanation formats are most effective, how reasoning is most effectively broken down, how to get language models to plan their reasoning, and what resources can be used to improve reasoning capabilities of language models. Tasks include mathematical reasoning, logical reasoning, commonsense reasoning, and more.</li>
+  <li><b>Structured explanations: </b>Explanations for these complex tasks are typically composed of two or more facts that are used to help the reasoning process while also providing a record of the path taken to arrive at an inference. What representations can be best used by inference algorithms to construct large explanations? Frontiers of research include exploring search algorithms over such representations, how to represent annotations at scale and continual learning models.</li>
+  <li><b>Foundations of natural language reasoning: </b>Does the structured reasoning constitute a plausible (interpretable to humans) and faithful (true to the model's processes) explanation? Does perturbing the reasoning lead to correctly modified behavior?
+Applications of natural language reasoning: New QA settings, language grounding, explainable diagnosis systems, theorem provers using natural language, reasoning for scientific discovery, and more.</li>
+  <li><b>Knowledge retrieval for multi-step reasoning: </b>It has been shown that LLMs can store factual knowledge implicitly in their parameters, however, their ability to access and manipulate knowledge is still limited. Future avenues of research include effective methods to combine parametric and non-parametric knowledge for complex reasoning, conditioning  retrieval given intermediate reasoning context, retrieving better provenance for structured explanations.</li>
+  <li><b>Reasoning as programs: </b>Another body of work within computational cognitive science and AI has formalized reasoning as inference over programs, building on classical views of human reasoning in a symbol-like language of thought and linguistic semantics with logical languages. Language models of code to produce structured reasoning for commonsense problems or other similar approaches are all in scope here.</li>
+ </ul>
+  </div>
+</div>
+<hr />
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+      We welcome two types of papers: regular workshop papers and non-archival submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through <a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">Softconf</a>. In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content.
+        </p>
+    <ul>
+      <li><b>Regular workshop papers</b>: Authors should submit a paper up to <b>8 pages (both short and long papers are welcome)</b>, with unlimited pages for references, following the <a style="color:#2980b9;font-weight:400;" href="https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats">ACL 2023 formatting requirements</a>. The reported research should be substantially original. All submissions will be reviewed in a single track, regardless of length. Accepted papers will be presented as posters by default, and best papers may be given the opportunity for a brief talk to introduce their work. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymised. Accepted papers will appear in the workshop proceedings.
+</li>
+      <li><b>Non-archival submissions</b>: We also solicit cross-submissions, i.e., papers on relevant topics that <i>have appeared</i> in other venues (e.g., workshop or conference papers at NLP, ML, or cognitive science venues, among others). Accepted papers will be presented at the workshop, with an indication of original venue, but will not be included in the workshop proceedings. Cross-submissions are ideal for related work which would benefit from exposure to the <b>NLReasoning</b> audience. Interested authors should submit their papers in PDF format through the <b>NLReasoning</b> Softconf website, with a note on the original venue. They will be reviewed in a <b>single-blind</b> fashion. Papers in this category do not need to follow the ACL format, and the submission length is determined by the original venue. The paper selection will be solely determined by the organizing committee.</li>
+    </ul>
+    <p>
+        In addition, we welcome papers on relevant topics that are under review or to be submitted to other venues (including the ACL 2023 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
+   
+   <p>
+     <b>Note to authors: While you submit your paper through Softconf (<a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">here</a>), please select the “Submission Type” properly based on the guidelines.
+</b></p>
+   <p>
+   For questions about the submission guidelines, please contact workshop organizers via <a href="nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
+
+     </p>
+      
+</div>
+</div>
+<hr />
+  
