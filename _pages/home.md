@@ -33,6 +33,106 @@ acknowledgements: ""
 
 <br />
 
+<!-- Schedule -->
+<div class="row" id="schedule">
+  <div class="col-md-4 col-xs-12">
+    <h2>Schedule</h2>
+  </div>
+  <div class="col-md-8 col-xs-12">
+      <select id="timezone-select" class="form-control"></select>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped" id="schedule-table">
+    <tbody>
+    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session</td></tr>
+    <tr> <th scope="row" data-time="08:50">09:00 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row" data-time="09:10">09:10 AM</th> <td>
+      Invited Speaker: Ellie Pavlick<br />Mechanistic Evidence of Structured Reasoning in LLMs
+      <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
+      <div class="collapse" id="schedule-talk1">
+        Abstract: Computational systems for grounded language understanding have seen impressive advances over the last decade, due largely to advances in multimodal datasets, neural and symbolic modeling techniques, and computational power. But human meaning interpretation in grounded contexts remains far deeper and more sophisticated. In this talk I describe several recent studies in our research group that illustrate the subtlety and richness of human meaning interpretation using very simple, experimentally controlled utterances and visual grounding contexts. These studies shed light on the compositional structure of the semantic representations underlying human language comprehension, their relationship with the pragmatic inference mechanisms that support contextually conditioned interpretation, and the likely requirements for truly human-like language understanding in artificial systems.
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row" data-time="09:50">09:50 AM</th> <td>
+      Invited Speaker: Noah Goodman<br />[Talk title forthcoming]
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <div class="collapse" id="schedule-talk2">
+        Abstract: Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. Existing approaches use action-based representations that do not capture the goal-based meaning of a language expression and do not generalize to partially observed environments.  The aim of my research program is to create autonomous robots that can understand complex goal-based commands and execute those commands in partially observed, dynamic environments.  I will describe demonstrations of object-search in a POMDP setting with information about object locations provided by language, and mapping between English and Linear Temporal Logic, enabling a robot to understand complex natural language commands in city-scale environments.  These advances represent steps towards robots that interpret complex natural language commands in partially observed environments using a decision theoretic framework.
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
+    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
+      Oral Presentation: Li Zhang, Liam Dugan, Hainiu Xu and Chris Callison-burch<br />Exploring the Curious Case of Code Prompts
+      <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
+      <div class="collapse" id="schedule-talk3">
+        Abstract: Recent work has shown that prompting language models with code-like representations of natural language leads to performance improvements on structured reasoning tasks. However, such tasks comprise only a small subset of all natural language tasks. In our work, we seek to answer whether or not code-prompting is the preferred way of interacting with language models in general. We compare code and text prompts across three popular GPT models (davinci, code-davinci-002, and text-davinci-002) on a broader selection of tasks (e.g., QA, sentiment, summarization) and find that with few exceptions, code prompts do not consistently outperform text prompts. Furthermore, we show that the style of code prompt has a large effect on performance for some (but not all) tasks and that fine-tuning on text instructions leads to better relative performance of code prompts.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="11:10">11:10 AM</th> <td>
+      Oral Presentation: Vanya Cohen and Raymond Mooney<br />Using Planning to Improve Semantic Parsing of Instructional Texts
+      <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
+      <div class="collapse" id="schedule-talk4">
+        Abstract: We develop a symbolic planning-based decoder to improve the few-shot semantic parsing of instructional texts. The system takes long-form instructional texts as input and produces sequences of actions in a formal language that enable execution of the instructions. This task poses unique challenges since input texts may contain long context dependencies and ambiguous and domain-specific language. Valid semantic parses also require sequences of steps that constitute an executable plan. We build on recent progress in semantic parsing by leveraging large language models to learn parsers from small amounts of training data. During decoding, our method employs planning methods and domain information to rank and correct candidate parses. To validate our method, we evaluate on four domains: two household instruction-following domains and two cooking recipe interpretation domains. We present results for few-shot semantic parsing using leave-one-out cross-validation. We show that utilizing planning domain information improves the quality of generated plans. Through ablations we also explore the effects of our decoder design choices.
+      </div>
+    </td></tr>
+    <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 (See posters below)</td></tr>
+    <tr> <th scope="row" data-time="12:25">12:25 PM</th> <td>Lunch</td> </tr>
+    <tr> <th scope="row" data-time="13:30">13:30 PM</th> <td>In-Person Poster Session 2 (See posters below)</td> </tr>
+    <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>
+      Oral Presentation: Jinheon Baek, Alham Fikri Aji and Amir Saffari<br />Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering
+      <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a>
+      <div class="collapse" id="schedule-talk5">
+        Abstract: Large Language Models (LLMs) are capable of performing zero-shot closed-book question answering tasks, based on their internal knowledge stored in parameters during pre-training. However, such internalized knowledge might be insufficient and incorrect, which could lead LLMs to generate factually wrong answers. Furthermore, fine-tuning LLMs to update their knowledge is expensive. To this end, we propose to augment the knowledge directly in the input of LLMs. Specifically, we first retrieve the relevant facts to the input question from the knowledge graph based on semantic similarities between the question and its associated facts. After that, we prepend the retrieved facts to the input question in the form of the prompt, which is then forwarded to LLMs to generate the answer. Our framework, Knowledge-Augmented language model PromptING (KAPING), requires no model training, thus completely zero-shot. We validate the performance of our KAPING framework on the knowledge graph question answering task, that aims to answer the user's question based on facts over a knowledge graph, on which ours outperforms relevant zero-shot baselines by up to 48% in average, across multiple LLMs of various sizes.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="14:40">14:40 PM</th> <td>
+      Oral Presentation: Michal Štefánik and Marek Kadlcik<br />Can In-context Learners Learn a Reasoning Concept from Demonstrations?
+      <a data-toggle="collapse" href="#schedule-6" aria-cexpanded="false" aria-controls="schedule-6">[Abstract]</a>
+      <div class="collapse" id="schedule-6">
+        Abstract: Large language models show an emergent ability to learn a new task from a small number of input-output demonstrations. However, recent work shows that in-context learners largely rely on their pre-trained knowledge, such as the sentiment of the labels, instead of finding new associations in the input. However, the commonly-used few-shot evaluation settings using a random selection of in-context demonstrations can not disentangle models' ability to learn a new skill from demonstrations, as most of the randomly-selected demonstrations do not present relations informative for prediction beyond exposing the new task distribution.
+        To disentangle models' in-context learning ability independent of models' memory, we introduce a Conceptual few-shot learning method selecting the demonstrations sharing a possibly-informative concept with the predicted sample. We extract a set of such concepts from annotated explanations and measure how much can models benefit from presenting these concepts in few-shot demonstrations.
+        We find that smaller models are more sensitive to the presented concepts. While some of the models are able to benefit from concept-presenting demonstrations for each assessed concept, we find that none of the assessed in-context learners can benefit from all presented reasoning concepts consistently, leaving the in-context concept learning an open challenge.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="14:50">14:50 PM</th> <td>
+      Invited Speaker: Peter Clark<br />The role of NL reasoning in the age of GPT
+      <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk7">
+        Abstract: While the performance of new LLMs is stunning, it remains unclear how (or even if) an answer follows from their latent "beliefs" about the world, or whether an LLM even has a coherent internal belief system. In this talk I'll describe recent work we have done to probe a model's beliefs, construct interpretable representations of how the model's answers systematically follow from them, and how a broader system can identify and repair inconsistencies that may exist among those beliefs. More generally, I'll promote architectures in which interpretable, systematic NL reasoning and LLM-style reasoning co-exist in a broader system, allowing both styles of reasoning to inform each other, and paving the way for more interactive systems where users can probe, argue with, learn from, and teach our future companions.
+      </div>
+      <div class="collapse" id="speaker-bio-talk7">
+        Peter Clark is a Senior Director and the interim CEO at the Allen Institute for AI (AI2), and leads the Aristo Project. His work focuses on natural language processing, machine reasoning, and world knowledge, and the interplay between these three areas.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="15:30">15:30 PM</th> <td>Break 2</td></tr>
+    <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>
+      Invited Speaker: Denny Zhou<br />Teach Language Models to Reason
+      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk8" aria-cexpanded="false" aria-controls="speaker-bio-talk8">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk8">
+        Over the past decades, the machine learning community has developed a multitude of data-driven techniques aimed at enhancing learning efficiency. These include semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM)  reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning: crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was showcased at Google I/O 2022 by Google CEO Sundar Pichai.
+      </div>
+      <div class="collapse" id="speaker-bio-talk8">
+        Denny Zhou is a principal scientist / research director in Google DeepMind, where he is the founder and current lead of the Reasoning Team. His primary research interest is building and teaching large language models (LLMs) with an ambitious goal of attaining human-level reasoning capabilities within these models. His team in Google has developed chain-of-thought prompting, self-consistency decoding, least-to-most prompting, instruction tuning (FLAN2), LLMs self-debugging and various investigations of emergent properties of LLMs. He won Google Research Tech Impact Award in 2022.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="16:40">16:40 PM</th> <td>
+      Invited Speaker: Sarah Wiegraffe
+      <!-- <br />Talk title to come.
+      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
+      <div class="collapse" id="schedule-talk8">
+        Abstract: Language is a signature of our species. It is the pathway through which we share the contents of our minds, imagine new ideas and ignite them in others. But how, and how early, do infants link language and thought?  How do they identify which signals are part of their language and discover how these are linked to fundamental representations of objects and events? Infants begin to forge this language-cognition interface in the first months of life. Even before they say their first words, listening to human language promotes core cognitive capacities, including object categorization and rule-learning. Moreover, this precocious link emerges from a broader template that initially includes vocalizations of non-human primates, but is rapidly tuned specifically to human vocalizations. I’ll describe an exquisitely timed developmental cascade, fueled by both ‘nature’ and ‘nurture’, leading infants to discover increasingly precise links between language and cognition, and use this link to learn about their world.
+      </div> -->
+    </td> </tr>
+    </tbody>
+    </table>
+  </div>
+</div>
+
+
 <hr />
 
 <!-- Speakers -->
@@ -85,15 +185,6 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://sarahwie.github.io/">Sarah Wiegreffe</a>
       <h6>Allen Institute for AI</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://fh295.github.io/">
-      <img class="people-pic" src="https://github.com/fh295/fh295.github.io/blob/master/felixhill.jpg?raw=true">
-    </a>
-    <div class="people-name">
-      <a href="https://fh295.github.io/">Felix Hill</a>
-      <h6>DeepMind</h6>
     </div>
   </div>
 </div>
@@ -183,7 +274,7 @@ Applications of natural language reasoning: New QA settings, language grounding,
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
-          <td>June 6, 2023 (11:59 PM Pacific time)</td>
+          <td><s>June 6, 2023 (11:59 PM Pacific time)</s></td>
         </tr>
         <tr>
           <td>Workshop Date</td>
