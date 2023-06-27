@@ -54,7 +54,7 @@ acknowledgements: ""
       </div> -->
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:50 AM</th> <td>
-      Invited Speaker: Noah Goodman<br />[Talk title forthcoming]
+      Invited Speaker: Noah Goodman<br />
       <span style="font-style:italic">[Talk title forthcoming]</span>
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
       <div class="collapse" id="schedule-talk2">
@@ -78,7 +78,7 @@ acknowledgements: ""
         Abstract: We develop a symbolic planning-based decoder to improve the few-shot semantic parsing of instructional texts. The system takes long-form instructional texts as input and produces sequences of actions in a formal language that enable execution of the instructions. This task poses unique challenges since input texts may contain long context dependencies and ambiguous and domain-specific language. Valid semantic parses also require sequences of steps that constitute an executable plan. We build on recent progress in semantic parsing by leveraging large language models to learn parsers from small amounts of training data. During decoding, our method employs planning methods and domain information to rank and correct candidate parses. To validate our method, we evaluate on four domains: two household instruction-following domains and two cooking recipe interpretation domains. We present results for few-shot semantic parsing using leave-one-out cross-validation. We show that utilizing planning domain information improves the quality of generated plans. Through ablations we also explore the effects of our decoder design choices.
       </div>
     </td></tr>
-    <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 / Virtual Poster Session 2(See posters below)</td></tr>
+    <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 / Virtual Poster Session 2 (See posters below)</td></tr>
     <tr> <th scope="row" data-time="12:25">12:25 PM</th> <td>Lunch</td> </tr>
     <tr> <th scope="row" data-time="13:30">13:30 PM</th> <td>In-Person Poster Session 2 (See posters below)</td> </tr>
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>
@@ -632,13 +632,6 @@ acknowledgements: ""
 <span class="paper-title">How Many Answers Should I Give? An Empirical Study of Multi-Answer Reading Comprehension</span><br>
 <span class="paper-authors">Chen Zhang, Jiuheng Lin, Xiao Liu, Yuxuan Lai, Yansong Feng, Dongyan Zhao</span><br>
 <span class="paper-type"><span>[ACL Findings]</span></span><br>
-
-</li>
-
-<li>
-<span class="paper-title">I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors</span><br>
-<span class="paper-authors">Tuhin Chakrabarty, Arkadiy Saakyan, Olivia Winn, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki and Smaranda Muresan</span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
 
