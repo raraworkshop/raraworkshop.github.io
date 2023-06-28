@@ -44,7 +44,7 @@ acknowledgements: ""
     <table class="table table-striped" id="schedule-table">
     <tbody>
     <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session 1</td></tr>
-    <tr> <th scope="row" data-time="08:50">09:00 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:10">09:10 AM</th> <td>
       Invited Speaker: Ellie Pavlick<br />
       <span style="font-style:italic">Mechanistic Evidence of Structured Reasoning in LLMs</span>
@@ -79,7 +79,7 @@ acknowledgements: ""
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="11:20">11:20 PM</th> <td>In-Person Poster Session 1 / Virtual Poster Session 2 (See posters below)</td></tr>
-    <tr> <th scope="row" data-time="12:25">12:25 PM</th> <td>Lunch</td> </tr>
+    <tr> <th scope="row" data-time="12:20">12:20 PM</th> <td>Lunch</td> </tr>
     <tr> <th scope="row" data-time="13:30">13:30 PM</th> <td>In-Person Poster Session 2 (See posters below)</td> </tr>
     <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td>
       Oral Presentation: Jinheon Baek, Alham Fikri Aji and Amir Saffari<br />
