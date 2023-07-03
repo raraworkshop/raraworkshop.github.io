@@ -126,12 +126,15 @@ acknowledgements: ""
     </td> </tr>
     <tr> <th scope="row" data-time="16:40">16:40 PM</th> <td>
       Invited Speaker: Sarah Wiegraffe
-      <span style="font-style:italic">[Talk title forthcoming]</span>
-      <!-- <br />Talk title to come.
-      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
-      <div class="collapse" id="schedule-talk8">
-        Abstract: Language is a signature of our species. It is the pathway through which we share the contents of our minds, imagine new ideas and ignite them in others. But how, and how early, do infants link language and thought?  How do they identify which signals are part of their language and discover how these are linked to fundamental representations of objects and events? Infants begin to forge this language-cognition interface in the first months of life. Even before they say their first words, listening to human language promotes core cognitive capacities, including object categorization and rule-learning. Moreover, this precocious link emerges from a broader template that initially includes vocalizations of non-human primates, but is rapidly tuned specifically to human vocalizations. I’ll describe an exquisitely timed developmental cascade, fueled by both ‘nature’ and ‘nurture’, leading infants to discover increasingly precise links between language and cognition, and use this link to learn about their world.
-      </div> -->
+       <span style="font-style:italic">Two Views of Language Model Interpretability</span>
+      <a data-toggle="collapse" href="#schedule-talk9" aria-cexpanded="false" aria-controls="schedule-talk9">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk9" aria-cexpanded="false" aria-controls="speaker-bio-talk9">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk9">
+        When generating text from language models (LMs), many prompting methods strive to explain LM behavior by eliciting specifically-structured outputs (e.g, chain-of-thought prompting). Relatedly, querying a model with specially-designed inputs and observing output behavior is a longstanding and popular method in the NLP interpreter’s toolbox. Prompting and querying approaches explain how LMs operate at a high-level (in natural language) without attributing behaviors to any specific components of the network. A separate line of work has investigated attributing or attempting to reconstruct model behaviors at the model parameter or hidden representation-level, generally at a small scale. While these two techniques often seem at odds in terms of their stated aims, they collectively inform a large progression in our understanding of LMs in the past 2 years. In this talk, I will give examples of both of these approaches, highlight their similarities and differences, and discuss paths forward that leverage their combined strengths.
+      </div>
+      <div class="collapse" id="speaker-bio-talk9">
+         Sarah Wiegreffe is a Young Investigator (postdoc) at the Allen Institute of AI, where she is a member of the Aristo team. She also holds a courtesy appointment in the Allen School at the University of Washington. Her research interests encompass interpretability + explainability of NLP models, with a focus on the faithfulness of generated text to internal LM prediction mechanisms and the utility of model-generated textual explanations to humans. She received her PhD in 2022 from Georgia Tech, advised by Mark Riedl. She also received an M.S. in Computer Science (2020) and B.S. in Data Science (2017) from Georgia Tech and the College of Charleston, respectively. Outside of work, she enjoys rock climbing, cooking, and exploring Seattle.
+      </div>
     </td> </tr>
     </tbody>
     </table>
