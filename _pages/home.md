@@ -271,6 +271,13 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
+
+<li>
+<span class="paper-title">Neural-symbolic Contrastive Learning for Cross-domain Inference</span><br>
+<span class="paper-authors">Mingyue Liu, Jialin Yu, Hao Cui, Sara Uckelman and Yang Long </span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
 </ul>
 
 <h3>Virtual Poster Session 2</h3>
@@ -327,13 +334,6 @@ acknowledgements: ""
 <li>
 <span class="paper-title">Teaching Large Language Models to Self-Debug</span><br>
 <span class="paper-authors">Xinyun Chen, Maxwell Lin, Nathanael Schaerli and Denny Zhou </span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
-<span class="paper-title">Neural-symbolic Contrastive Learning for Cross-domain Inference</span><br>
-<span class="paper-authors">Mingyue Liu, Jialin Yu, Hao Cui, Sara Uckelman and Yang Long </span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
