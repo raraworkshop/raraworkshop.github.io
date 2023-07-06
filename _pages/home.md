@@ -304,13 +304,6 @@ acknowledgements: ""
 </li>
 
 <li>
-<span class="paper-title">Negated Complementary Commonsense using Large Language Models</span><br>
-<span class="paper-authors">Navid Rezaei and Marek Reformat </span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
 <span class="paper-title">OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models</span><br>
 <span class="paper-authors">Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz and Mona Diab </span><br>
 <span class="paper-type"><span>[Archival]</span></span><br>
@@ -337,6 +330,14 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
+
+<li>
+<span class="paper-title">Neural-symbolic Contrastive Learning for Cross-domain Inference</span><br>
+<span class="paper-authors">Mingyue Liu, Jialin Yu, Hao Cui, Sara Uckelman and Yang Long </span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
 </ul>
 
 <h3>In-Person Poster Session 1</h3>
@@ -660,13 +661,6 @@ acknowledgements: ""
 </li>
 
 <li>
-<span class="paper-title">Neural-symbolic Contrastive Learning for Cross-domain Inference</span><br>
-<span class="paper-authors">Mingyue Liu, Jialin Yu, Hao Cui, Sara Uckelman and Yang Long </span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
 <span class="paper-title">SCOTT: Self-Consistent Chain-of-Thought Distillation</span><br>
 <span class="paper-authors">Peifeng Wang, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin and Xiang Ren</span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
@@ -691,6 +685,13 @@ acknowledgements: ""
 <span class="paper-title">Using Planning to Improve Semantic Parsing of Instructional Texts</span><br>
 <span class="paper-authors">Vanya Cohen and Raymond Mooney</span><br>
 <span class="paper-type"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Negated Complementary Commonsense using Large Language Models</span><br>
+<span class="paper-authors">Navid Rezaei and Marek Reformat </span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
 </ul>
