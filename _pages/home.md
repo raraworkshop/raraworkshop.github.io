@@ -311,13 +311,6 @@ acknowledgements: ""
 </li>
 
 <li>
-<span class="paper-title">OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models</span><br>
-<span class="paper-authors">Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz and Mona Diab </span><br>
-<span class="paper-type"><span>[Archival]</span></span><br>
-
-</li>
-
-<li>
 <span class="paper-title">Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference</span><br>
 <span class="paper-authors">Sushma Anand Akoju, Robert Vacareanu, Eduardo Blanco, Haris Riaz and Mihai Surdeanu </span><br>
 <span class="paper-type"><span>[Archival]</span></span><br>
@@ -694,6 +687,14 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
+
+<li>
+<span class="paper-title">OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models</span><br>
+<span class="paper-authors">Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz and Mona Diab </span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
 </ul>
 
 
