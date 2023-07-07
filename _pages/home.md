@@ -338,6 +338,13 @@ acknowledgements: ""
 
 </li>
 
+<li>
+<span class="paper-title">Using Planning to Improve Semantic Parsing of Instructional Texts</span><br>
+<span class="paper-authors">Vanya Cohen and Raymond Mooney</span><br>
+<span class="paper-type"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span></span><br>
+
+</li>
+
 </ul>
 
 <h3>In-Person Poster Session 1</h3>
@@ -671,13 +678,6 @@ acknowledgements: ""
 <span class="paper-title">Situated Natural Language Explanations</span><br>
 <span class="paper-authors">Zining Zhu, Haoming Jiang, Jingfeng Yang, Sreyashi Nag, Chao Zhang, Jie Huang, Yifan Gao, Frank Rudzicz and Bing Yin (zining@cs.toronto.edu)	</span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
-<span class="paper-title">Using Planning to Improve Semantic Parsing of Instructional Texts</span><br>
-<span class="paper-authors">Vanya Cohen and Raymond Mooney</span><br>
-<span class="paper-type"><span style="color:#DD3333;font-weight:700">[Oral, Archival]</span></span><br>
 
 </li>
 
