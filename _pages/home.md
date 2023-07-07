@@ -516,13 +516,6 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
-
-<li>
-<span class="paper-title">Towards Reasoning in Large Language Models: Survey, Implication, and Reflection</span><br>
-<span class="paper-authors">Jie Huang and Kevin Chen-Chuan Chang</span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
 </ul>
 
 <h3>In-Person Poster Session 2</h3>
@@ -691,6 +684,13 @@ acknowledgements: ""
 <li>
 <span class="paper-title">Negated Complementary Commonsense using Large Language Models</span><br>
 <span class="paper-authors">Navid Rezaei and Marek Reformat </span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Towards Reasoning in Large Language Models: Survey, Implication, and Reflection</span><br>
+<span class="paper-authors">Jie Huang and Kevin Chen-Chuan Chang</span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
