@@ -125,7 +125,7 @@ acknowledgements: ""
       </div>
     </td> </tr>
     <tr> <th scope="row" data-time="16:40">16:40 PM</th> <td>
-      Invited Speaker: Sarah Wiegraffe
+      Invited Speaker: Sarah Wiegreffe
        <span style="font-style:italic">Two Views of Language Model Interpretability</span>
       <a data-toggle="collapse" href="#schedule-talk9" aria-cexpanded="false" aria-controls="schedule-talk9">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk9" aria-cexpanded="false" aria-controls="speaker-bio-talk9">[Speaker Bio]</a>
