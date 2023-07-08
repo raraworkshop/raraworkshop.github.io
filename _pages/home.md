@@ -338,6 +338,14 @@ acknowledgements: ""
 
 </li>
 
+<li>
+<span class="paper-title">Few Shot Rationale Generation using Self-Training with Dual Teachers</span><br>
+<span class="paper-authors">Aditya Srikanth Veerubhotla, Lahari Poddar, Jun Yin, György Szarvas, Sharanya Eswaran</span><br>
+<span class="paper-type"><span>[ACL Findings]</span></span><br>
+
+</li>
+
+
 </ul>
 
 <h3>In-Person Poster Session 1</h3>
@@ -594,13 +602,6 @@ acknowledgements: ""
 <span class="paper-title">Faithful Chain-of-Thought Reasoning</span><br>
 <span class="paper-authors">Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki and Chris Callison-Burch (lyuqing@seas.upenn.edu)</span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
-<span class="paper-title">Few Shot Rationale Generation using Self-Training with Dual Teachers</span><br>
-<span class="paper-authors">Aditya Srikanth Veerubhotla, Lahari Poddar, Jun Yin, György Szarvas, Sharanya Eswaran</span><br>
-<span class="paper-type"><span>[ACL Findings]</span></span><br>
 
 </li>
 
