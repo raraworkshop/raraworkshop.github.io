@@ -346,6 +346,13 @@ acknowledgements: ""
 </li>
 
 
+<li>
+<span class="paper-title">Explanation Regeneration via Information Bottleneck</span><br>
+<span class="paper-authors">Qintong Li, Zhiyong Wu, Lingpeng Kong, Wei Bi</span><br>
+<span class="paper-type"><span>[ACL Findings]</span></span><br>
+
+</li>
+
 </ul>
 
 <h3>In-Person Poster Session 1</h3>
@@ -410,13 +417,6 @@ acknowledgements: ""
 <span class="paper-title">Examining the Emergence of Deductive Reasoning in Generative Language Models</span><br>
 <span class="paper-authors">Peter Belcak, Luca Lanzendörfer and Roger Wattenhofer</span><br>
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
-<span class="paper-title">Explanation Regeneration via Information Bottleneck</span><br>
-<span class="paper-authors">Qintong Li, Zhiyong Wu, Lingpeng Kong, Wei Bi</span><br>
-<span class="paper-type"><span>[ACL Findings]</span></span><br>
 
 </li>
 
