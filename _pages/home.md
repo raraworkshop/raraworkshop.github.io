@@ -245,13 +245,6 @@ acknowledgements: ""
 </li>
 
 <li>
-<span class="paper-title">QAMPARI: A Benchmark for Open-domain Questions with Many Answers</span><br>
-<span class="paper-authors">Samuel Amouyal, Tomer Wolfson, Ohad Rubin, Ori Yoran, Jonathan Herzig and Jonathan Berant </span><br>
-<span class="paper-type"><span>[Non-Archival]</span></span><br>
-
-</li>
-
-<li>
 <span class="paper-title">SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries</span><br>
 <span class="paper-authors">Chau Nguyen, Tim French, Wei Liu, Michael Stewart</span><br>
 <span class="paper-type"><span>[ACL Findings]</span></span><br>
@@ -353,6 +346,13 @@ acknowledgements: ""
 
 </li>
 
+
+<li>
+<span class="paper-title">Reasoning Circuits: Few-shot Multi-hop Question Generation with Structured Rationales</span><br>
+<span class="paper-authors">Saurabh Kulshreshtha and Anna Rumshisky</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
 </ul>
 
 <h3>In-Person Poster Session 1</h3>
@@ -463,13 +463,6 @@ acknowledgements: ""
 </li>
 
 <li>
-<span class="paper-title">Reasoning Circuits: Few-shot Multi-hop Question Generation with Structured Rationales</span><br>
-<span class="paper-authors">Saurabh Kulshreshtha and Anna Rumshisky</span><br>
-<span class="paper-type"><span>[Archival]</span></span><br>
-
-</li>
-
-<li>
 <span class="paper-title">Reasoning in Large Language Models Through Symbolic Math Word Problems</span><br>
 <span class="paper-authors">Vedant Gaur, Nikunj Saunshi</span><br>
 <span class="paper-type"><span>[ACL Findings]</span></span><br>
@@ -525,6 +518,13 @@ acknowledgements: ""
 
 </li>
 </ul>
+
+<li>
+<span class="paper-title">QAMPARI: A Benchmark for Open-domain Questions with Many Answers</span><br>
+<span class="paper-authors">Samuel Amouyal, Tomer Wolfson, Ohad Rubin, Ori Yoran, Jonathan Herzig and Jonathan Berant </span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
 
 <h3>In-Person Poster Session 2</h3>
 <ul class="paper-list">
