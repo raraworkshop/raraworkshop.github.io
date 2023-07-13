@@ -517,7 +517,6 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
-</ul>
 
 <li>
 <span class="paper-title">QAMPARI: A Benchmark for Open-domain Questions with Many Answers</span><br>
@@ -525,6 +524,7 @@ acknowledgements: ""
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
+</ul>
 
 <h3>In-Person Poster Session 2</h3>
 <ul class="paper-list">
