@@ -48,6 +48,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:10">09:10 AM</th> <td>
       Invited Speaker: Ellie Pavlick<br />
       <span style="font-style:italic">Mechanistic Evidence of Structured Reasoning in LLMs</span>
+      <a href="https://drive.google.com/file/d/1Fg_jiTd7ai20kd7WmEQL-lknSlqOq5bw/view?usp=drive_link" >[Slides]</a>
       <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <div class="collapse" id="schedule-talk1">
         Abstract: Computational systems for grounded language understanding have seen impressive advances over the last decade, due largely to advances in multimodal datasets, neural and symbolic modeling techniques, and computational power. But human meaning interpretation in grounded contexts remains far deeper and more sophisticated. In this talk I describe several recent studies in our research group that illustrate the subtlety and richness of human meaning interpretation using very simple, experimentally controlled utterances and visual grounding contexts. These studies shed light on the compositional structure of the semantic representations underlying human language comprehension, their relationship with the pragmatic inference mechanisms that support contextually conditioned interpretation, and the likely requirements for truly human-like language understanding in artificial systems.
@@ -55,7 +56,8 @@ acknowledgements: ""
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:50 AM</th> <td>
       Invited Speaker: Noah Goodman<br />
-      <span style="font-style:italic">[Talk title forthcoming]</span>
+      <span style="font-style:italic">Reasoning in human and machine intelligence</span>
+      <a href="https://docs.google.com/presentation/d/1x3WGLTiCb0BqjM1-FgsmmiyEDRKLCJVp/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a>
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
       <div class="collapse" id="schedule-talk2">
         Abstract: Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. Existing approaches use action-based representations that do not capture the goal-based meaning of a language expression and do not generalize to partially observed environments.  The aim of my research program is to create autonomous robots that can understand complex goal-based commands and execute those commands in partially observed, dynamic environments.  I will describe demonstrations of object-search in a POMDP setting with information about object locations provided by language, and mapping between English and Linear Temporal Logic, enabling a robot to understand complex natural language commands in city-scale environments.  These advances represent steps towards robots that interpret complex natural language commands in partially observed environments using a decision theoretic framework.
@@ -102,6 +104,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="14:50">14:50 PM</th> <td>
       Invited Speaker: Peter Clark<br />
       <span style="font-style:italic">The role of NL reasoning in the age of GPT</span>
+      <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk7">
@@ -115,6 +118,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>
       Invited Speaker: Denny Zhou<br />
       <span style="font-style:italic">Teach Language Models to Reason</span>
+      <a href="https://drive.google.com/file/d/1lX8MYnYrkzCR5TPSMshwyEHWSoXUBRxj/view?usp=drive_link" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk8" aria-cexpanded="false" aria-controls="speaker-bio-talk8">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk8">
@@ -127,6 +131,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="16:40">16:40 PM</th> <td>
       Invited Speaker: Sarah Wiegreffe
        <span style="font-style:italic">Two Views of Language Model Interpretability</span>
+ <a href="https://drive.google.com/file/d/1fTs8srhhT9QC38apf_L94hrQOZpkUXK2/view?usp=drive_link" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk9" aria-cexpanded="false" aria-controls="schedule-talk9">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk9" aria-cexpanded="false" aria-controls="speaker-bio-talk9">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk9">
