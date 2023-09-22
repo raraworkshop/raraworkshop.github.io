@@ -310,7 +310,7 @@ acknowledgements: ""
 
 <li>
 <span class="paper-title">Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference</span><br>
-<span class="paper-authors">Sushma Anand Akoju, Robert Vacareanu, Eduardo Blanco, Haris Riaz and Mihai Surdeanu </span><br>
+<span class="paper-authors">Robert Vacareanu, Eduardo Blanco, Haris Riaz and Mihai Surdeanu </span><br>
 <span class="paper-type"><span>[Archival]</span></span><br>
 
 </li>
