@@ -128,8 +128,8 @@ acknowledgements: ""
     <div class="col-xs-12">
       <p>
       <!-- We welcome two types of papers: regular workshop papers and non-archival submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through <a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">Softconf</a>. In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content. -->
-      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through the OpenReview website set up for this workshop 
-      <a style="color:#2980b9;font-weight:400;" href=" https://softconf.com/acl2023/nl-reasoning/">(link)</a>. In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content.
+      We welcome three types of papers: archival workshop papers, non-archival papers, and non-archival cross-submissions. Only regular workshop papers will be included in the workshop proceedings. All submissions should be in PDF format and made through the <b>OpenReview website</b> set up for this workshop 
+      <a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/NLRSE#tab-your-consoles">(link)</a>. In line with the ACL main conference policy, camera-ready versions of papers will be given one additional page of content.
         </p>
     <ul>
       <li><b>Archival, regular workshop papers: </b>
@@ -142,7 +142,7 @@ acknowledgements: ""
         In addition, we welcome papers on relevant topics that are <i>under review or to be submitted to </i> other venues (including the ACL 2024 main conference). These papers must follow the regular workshop paper format and will not be included in the workshop proceedings. Papers in this category will be reviewed by workshop reviewers.</p>
    
    <p>
-     <b>Note to authors: While you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/NLRSE">link</a>), please select the "Submission Type" properly based on the guidelines.
+     <b>Note to authors: While you submit your paper through OpenReview (<a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/NLRSE#tab-your-consoles">link</a>), please select the "Submission Type" properly based on the guidelines.
 </b></p>
    <p>
    For questions about the submission guidelines, please contact workshop organizers via <a href="nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
