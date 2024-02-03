@@ -96,20 +96,24 @@ acknowledgements: ""
   <li>Multi-step natural language reasoning;</li>
   <li>Structured explanations;</li>
   <li>Foundations of natural language reasoning;</li>
-  <li>Applications of natural language reasoning;</li>
   <li>Knowledge retrieval for multi-step reasoning;</li>
+  <li>Reasoning in interactive environments;</li>
+  <li>Applications of natural language reasoning;</li>
   <li>Reasoning as programs;</li>
+  <li>Neuro-symbolic reasoning;</li>
           </ul>
       </p>
-      <p>With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened, including tasks requiring increasingly complex reasoning. Although LLMs have shown remarkable performance, it is still unclear how to best elicit this reasoning and how the answers that models give follow from what they "know." This workshop aims to bring together a diverse set of perspectives and attempt to establish common ground for how various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond. As such, the workshop welcomes and covers a wide range of topics, including (non-exclusively):</p>
+      <p>With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened, including tasks requiring increasingly complex reasoning. Although LLMs have shown remarkable performance, it is still unclear how to best elicit this reasoning and to what extent the answers that models give follow from what they “know.” This workshop aims to bring together a diverse set of perspectives and attempts to establish common ground for how various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond. As such, the workshop welcomes and covers a wide range of topics, including (non-exclusively):</p>
   
   <ul>
     <li><b>Multi-step natural language reasoning: </b>Solving reasoning problems, such as those involving abstract manipulations, has been a long-standing challenge in the field of artificial intelligence. Large language models have recently achieved a new state-of-the-art performance on many reasoning benchmarks, often with approaches only requiring prompting. Current research frontiers are exploring what kinds of explanation formats are most effective, how reasoning is most effectively broken down, how to get language models to plan their reasoning, and what resources can be used to improve reasoning capabilities of language models. Tasks include mathematical reasoning, logical reasoning, commonsense reasoning, and more.</li>
-  <li><b>Structured explanations: </b>Explanations for these complex tasks are typically composed of two or more facts that are used to help the reasoning process while also providing a record of the path taken to arrive at an inference. What representations can be best used by inference algorithms to construct large explanations? Frontiers of research include exploring search algorithms over such representations, how to represent annotations at scale and continual learning models.</li>
-  <li><b>Foundations of natural language reasoning: </b>Does the structured reasoning constitute a plausible (interpretable to humans) and faithful (true to the model's processes) explanation? Does perturbing the reasoning lead to correctly modified behavior?
-Applications of natural language reasoning: New QA settings, language grounding, explainable diagnosis systems, theorem provers using natural language, reasoning for scientific discovery, and more.</li>
-  <li><b>Knowledge retrieval for multi-step reasoning: </b>It has been shown that LLMs can store factual knowledge implicitly in their parameters, however, their ability to access and manipulate knowledge is still limited. Future avenues of research include effective methods to combine parametric and non-parametric knowledge for complex reasoning, conditioning  retrieval given intermediate reasoning context, retrieving better provenance for structured explanations.</li>
+  <li><b>Structured explanations: </b>Explanations for these complex tasks are typically composed of two or more facts that are used to help guide the reasoning process while also providing a record of the path taken to arrive at an inference. What representations can be best used by inference algorithms to construct large explanations? Frontiers of research include exploring search algorithms over such representations, how to represent annotations at scale and continual learning models.</li>
+  <li><b>Foundations of natural language reasoning: </b>Does the structured reasoning constitute a plausible (interpretable to humans) and faithful (true to the model's processes) explanation? Does perturbing the reasoning lead to correctly modified behavior?</li>
+  <li><b>Knowledge retrieval for multi-step reasoning: </b>It has been shown that LLMs can store factual knowledge implicitly in their parameters, however, their ability to access and manipulate knowledge is still limited. Future avenues of research include effective methods to combine parametric and non-parametric knowledge for complex reasoning, conditioning retrieval given intermediate reasoning context, retrieving better provenance for structured explanations.</li>
+  <li><b>Reasoning in interactive environments: </b>Interactive environments are becoming an increasingly popular method for evaluating reasoning where an agent observes the environment, then takes steps in that environment to accomplish some goal. Here, manner (i.e. how-to) explanations take the form of the list of actions the agent required to accomplish some goal, e.g., "how to boil water in a kitchen", "how to grow an apple tree", "how to book a flight and a hotel in LA".</li>
+  <li><b>Applications of natural language reasoning: </b>New QA settings, language grounding, explainable diagnosis systems, theorem provers using natural language, reasoning for scientific discovery, and more.</li>
   <li><b>Reasoning as programs: </b>Another body of work within computational cognitive science and AI has formalized reasoning as inference over programs, building on classical views of human reasoning in a symbol-like language of thought and linguistic semantics with logical languages. Language models of code to produce structured reasoning for commonsense problems or other similar approaches are all in scope here.</li>
+  <li><b>Neuro-symbolic reasoning: </b>Pockets of contemporary work have proposed reformulating natural language reasoning as proceeding via modular neurosymbolic systems. Here LLMs operate as declarative programmers, “translating” natural language into a formal specification, such as one accepted by a satisfiability solver, and explicit inference is offloaded to classical symbolic algorithms for planning, constraint satisfaction, or probabilistic simulation.</li>
  </ul>
   </div>
 </div>
@@ -156,19 +160,19 @@ Applications of natural language reasoning: New QA settings, language grounding,
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>April 24, 2023 (All deadlines are 11:59 PM AoE time.)</td>
+          <td>May 17, 2024 (All deadlines are 11:59 PM AoE time.)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td>May 22, 2023</td>
+          <td>June 17, 2024</td>
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
-          <td>June 6, 2023 (11:59 PM Pacific time)</td>
+          <td>July 1, 2024</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>Thursday, 13 July 2023</td>
+          <td>TBD (ACL 24 will take place in Bangkok, Thailand from 11th to 16th August, 2024)</td>
         </tr>
       </tbody>
     </table>
@@ -238,7 +242,7 @@ Applications of natural language reasoning: New QA settings, language grounding,
     </a>
     <div class="people-name">
       <a href="https://xiye17.github.io/">Xi Ye</a>
-      <h6>MIT</h6>
+      <h6>University of Texas, Austin</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
