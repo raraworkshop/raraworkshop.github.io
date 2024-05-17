@@ -163,7 +163,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>May 17, 2024 (All deadlines are 11:59 PM AoE time.)</td>
+          <td>May 21, 2024 (All deadlines are 11:59 PM AoE time.)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
