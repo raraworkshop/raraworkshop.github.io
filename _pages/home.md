@@ -42,15 +42,6 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://homes.cs.washington.edu/~yejin/">
-      <img class="people-pic" src="https://mosaic.allenai.org/assets/profile-photos/profile_yejinc.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
-      <h6>University of Washington</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
     <a href="https://www.cs.cmu.edu/~sherryw/">
       <img class="people-pic" src="{{ "/static/img/people/sherrywu.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -75,6 +66,15 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://web.stanford.edu/~icard/">Thomas Icard</a>
       <h6>Stanford University</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://lorraine333.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/lorrianeli.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lorraine333.github.io/">Xiang Lorraine Li</a>
+      <h6>University of Pittsburgh</h6>
     </div>
   </div>
 </div>
@@ -175,7 +175,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBD (ACL 24 will take place in Bangkok, Thailand from 11th to 16th August, 2024)</td>
+          <td>Aug 15, 2024</td>
         </tr>
       </tbody>
     </table>
