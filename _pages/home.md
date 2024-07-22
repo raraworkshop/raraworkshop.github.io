@@ -32,6 +32,106 @@ acknowledgements: ""
 
 <br />
 
+<div class="row" id="schedule">
+  <div class="col-md-4 col-xs-12">
+    <h2>Schedule</h2>
+  </div>
+  <!-- <div class="col-md-8 col-xs-12">
+      <select id="timezone-select" class="form-control"></select>
+  </div> -->
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped" id="schedule-table">
+    <tbody>
+    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Virtual Poster Session</td></tr>
+    <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
+      Invited Speaker - Sherry Tongshuang Wu<br />
+      <!-- <span style="font-style:italic">Mechanistic Evidence of Structured Reasoning in LLMs</span>
+      <a href="https://drive.google.com/file/d/1Fg_jiTd7ai20kd7WmEQL-lknSlqOq5bw/view?usp=drive_link" >[Slides]</a> -->
+    </td></tr>
+    <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
+      Invited Speaker - Karthik Narasimhan<br />
+      <!-- <span style="font-style:italic">Reasoning in human and machine intelligence</span>
+      <a href="https://docs.google.com/presentation/d/1x3WGLTiCb0BqjM1-FgsmmiyEDRKLCJVp/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+    </td></tr>
+    <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
+    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
+      Invited Speaker - Thomas Icard<br />
+      <!-- <span style="font-style:italic">Reasoning in human and machine intelligence</span>
+      <a href="https://docs.google.com/presentation/d/1x3WGLTiCb0BqjM1-FgsmmiyEDRKLCJVp/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+    </td></tr>
+    <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>
+      Oral Presentation: Jiefu Ou, Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi<br />
+      <span style="font-style:italic">The World Is Worth How Many APIs? A Thought Experiment</span>
+      <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
+      <div class="collapse" id="schedule-talk4">
+        Abstract: AI systems make decisions in physical environments through primitive actions or affordances that are accessed via API calls. While deploying AI agents in the real world involves numerous high-level actions, existing embodied simulators offer a limited set of domain-salient APIs. This naturally brings up the questions: how many primitive actions (APIs) are needed for a versatile embodied agent, and what should they look like? <br>
+        We explore this via a thought experiment: assuming that wikiHow tutorials cover a wide variety of human-written tasks, what is the space of APIs needed to cover these instructions? We propose a framework to iteratively induce new APIs by grounding wikiHow instruction to situated agent policies. Inspired by recent successes in large language models (LLMs) for embodied planning, we propose a few-shot prompting to steer GPT-4 to generate Pythonic programs as agent policies and bootstrap a universe of APIs by 1) reusing a seed set of APIs; and then 2) fabricate new API calls when necessary. The focus of this thought experiment is on defining these APIs rather than their executability. <br> We apply the proposed pipeline on instructions from wikiHow tutorials. On a small fraction (0.5%) of tutorials, we induce an action space of 300+ APIs necessary for capturing the rich variety of tasks in the physical world. A detailed automatic and human analysis of the induction output reveals that the proposed pipeline enables effective reuse and creation of APIs. Moreover, a manual review revealed that existing simulators support only a small subset of the induced APIs (9 of the top 50 frequent APIs), motivating the development of action-rich embodied environments.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="12:00">12:00 PM</th> <td>
+      Oral Presentation: Tianyi Zhang, Li Zhang, Zhaoyi Joey Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon <br/>
+      <span style="font-style:italic">PROC2PDDL: Open-Domain Planning Representations from Texts</span>
+      <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a>
+      <div class="collapse" id="schedule-talk5">
+        Abstract: Planning in a text-based environment continues to be a significant challenge for AI systems. Recent approaches have utilized language models to predict planning domain definitions (e.g., PDDL) but have only been evaluated in closed-domain simulated environments. To address this, we present Proc2PDDL, the first dataset containing open-domain procedural texts paired with expert-annotated PDDL representations. Using this dataset, we evaluate the task of predicting domain actions (parameters, preconditions, and effects). We experiment with various large language models (LLMs) and prompting mechanisms, including a novel instruction inspired by the zone of proximal development (ZPD), which reconstructs the task as incremental basic skills. Our results demonstrate that Proc2PDDL is highly challenging for end-to-end LLMs, with GPT-3.5's success rate close to 0% and GPT-4o's 38%. With ZPD instructions, GPT-4o's success rate increases to 45%, outperforming regular chain-of-thought prompting's 34%. Our analysis systematically examines both syntactic and semantic errors, providing insights into the strengths and weaknesses of language models in generating domain-specific programs.
+      </div>
+    </td></tr>
+    <tr> <th scope="row" data-time="12:15">12:15 PM</th> <td>
+      Oral Presentation: Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings <br/>
+      <span style="font-style:italic">Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning</span>
+      <a data-toggle="collapse" href="#schedule-talk6" aria-cexpanded="false" aria-controls="schedule-talk6">[Abstract]</a>
+      <div class="collapse" id="schedule-talk6">
+        Abstract: Large language models (LLMs) have been shown to perform better when asked to reason step-by-step before answering a question. However, it is unclear to what degree the model's final answer is faithful to the stated reasoning steps. In this paper, we perform a causal mediation analysis on twelve LLMs to examine how intermediate reasoning steps generated by the LLM influence the final outcome and find that LLMs do not reliably use their intermediate reasoning steps when generating an answer. To address this issue, we introduce FRODO, a framework to tailor small-sized LMs to generate correct reasoning steps and robustly reason over these steps. FRODO consists of an inference module that learns to generate correct reasoning steps using an implicit causal reward function and a reasoning module that learns to faithfully reason over these intermediate inferences using a counterfactual and causal preference objective. Our experiments show that FRODO significantly outperforms four competitive baselines. Furthermore, FRODO improves the robustness and generalization ability of the reasoning LM, yielding higher performance on out-of-distribution test sets. Finally, we find that FRODO's rationales are more faithful to its final answer predictions than standard supervised fine-tuning.
+      </div>
+    </td></tr>
+    <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Lunch Break</td> </tr>
+    <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
+      Invited Speaker - Xiang Lorraine Li<br />
+      <!-- <span style="font-style:italic">The role of NL reasoning in the age of GPT</span>
+      <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a>
+      <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk7">
+        Abstract: While the performance of new LLMs is stunning, it remains unclear how (or even if) an answer follows from their latent "beliefs" about the world, or whether an LLM even has a coherent internal belief system. In this talk I'll describe recent work we have done to probe a model's beliefs, construct interpretable representations of how the model's answers systematically follow from them, and how a broader system can identify and repair inconsistencies that may exist among those beliefs. More generally, I'll promote architectures in which interpretable, systematic NL reasoning and LLM-style reasoning co-exist in a broader system, allowing both styles of reasoning to inform each other, and paving the way for more interactive systems where users can probe, argue with, learn from, and teach our future companions.
+      </div>
+      <div class="collapse" id="speaker-bio-talk7">
+        Peter Clark is a Senior Director and the interim CEO at the Allen Institute for AI (AI2), and leads the Aristo Project. His work focuses on natural language processing, machine reasoning, and world knowledge, and the interplay between these three areas.
+      </div> -->
+    </td> </tr>
+    <tr> <th scope="row" data-time="14:45">14:45 PM</th> <td>
+      Oral Presentation: Kartik Chandra, Katherine M. Collins, Will Crichton, Tony Chen, Rachit Nigam, Adrian Weller, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley<br/>
+      <span style="font-style:italic">WatChat: Explaining perplexing programs by debugging mental models</span>
+      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
+      <div class="collapse" id="schedule-talk8">
+        Abstract: Often, a good explanation for a program's unexpected behavior is a bug in the programmer's code. But sometimes, an even better explanation is a bug in the programmer's mental model of the language or API they are using. Instead of merely debugging our current code (giving the programmer a fish''), what if our tools could directly debug our mental models (teaching the programmer to fish'')? <br> In this paper, we apply recent ideas from computational cognitive science to offer a principled framework for doing exactly that. Given a ``why?'' question about a program, we automatically infer potential misconceptions about the language/API that might cause the user to be surprised by the program's behavior---and then analyze those misconceptions to provide explanations of the program's behavior. Our key idea is to formally represent misconceptions as counterfactual (erroneous) semantics for the language/API, which can be inferred and debugged using program synthesis techniques. <br> We demonstrate our framework, WatChat, by building systems for explanation in two domains: JavaScript type coercion, and the Git version control system. We evaluate WatChatJS and WatChatGit by comparing their outputs to experimentally-collected human-written explanations in these two domains: we show that WatChat explanations exhibit key features of human-written explanation, unlike those of a state-of-the-art language model.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="15:00">15:00 PM</th> <td>
+      Oral Presentation: Hyeonbin Hwang, Doyoung Kim, Seungone Kim, Seonghyeon Ye, Minjoon Seo<br />
+      <span style="font-style:italic">Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards</span>
+      <a data-toggle="collapse" href="#schedule-9" aria-cexpanded="false" aria-controls="schedule-9">[Abstract]</a>
+      <div class="collapse" id="schedule-9">
+        Abstract: Training on large amounts of rationales (i.e., CoT Fine-tuning) is effective at improving the reasoning capabilities of large language models (LLMs). However, acquiring human-authored rationales or augmenting rationales from proprietary models is costly and not scalable. In this paper, we study the problem of whether LLMs could self-improve their reasoning capabilities. To this end, we propose Self-Explore, where the LLM is tasked to explore the first wrong step (i.e., the first pit) within the rationale and use such signals as fine-grained rewards for further improvement. On the GSM8K and MATH test set, Self-Explore achieves 11.57% and 2.89% improvement on average across three LLMs compared to supervised fine-tuning (SFT).
+      </div>
+    </td> </tr>
+        <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>
+      Oral Presentation: Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, Shuyan Zhou, Tongshuang Wu, Zhengyang Wu<br />
+      <span style="font-style:italic">WebCanvas: Benchmarking Web Agents in Online Environments</span>
+      <a data-toggle="collapse" href="#schedule-10" aria-cexpanded="false" aria-controls="schedule-10">[Abstract]</a>
+      <div class="collapse" id="schedule-10">
+        Abstract: For web agents to be practically useful, they must adapt to the continuously evolving web environment characterized by frequent updates to user interfaces and content. However, most existing benchmarks only capture the static aspects of the web. To bridge this gap, we introduce Webcanvas, an innovative online evaluation framework for web agents that effectively addresses the dynamic nature of web interactions. Webcanvas contains three main components to facilitate realistic assessments: (1) A novel evaluation metric which reliably capture critical intermediate actions or states necessary for task completions while disregarding noise caused by insignificant events or changed web-elements. (2) A benchmark dataset called Mind2Web-Live, a refined version of original Mind2Web static dataset containing 542 tasks with 2439 intermediate evaluation states; (3) Lightweight and generalizable annotation tools and testing pipelines that enables the community to collect and maintain the high-quality, up-to-date dataset. Building on Webcanvas, we open-source an agent framework with extensible modules for reasoning, providing a foundation for the community to conduct online inference and evaluations. Our best-performing agent achieves a task success rate of 23.1% and a task completion rate of 48.8% on the Mind2Web-Live test set. Additionally, we analyze the performance discrepancies across various websites, domains, and experimental environments. We encourage the community to contribute further insights on online agent evaluation, thereby advancing this field of research. Our platform, tool and dataset are publically available at https://www.imean.ai/web-canvas and https://huggingface.co/datasets/iMeanAI/Mind2Web-Live.
+      </div>
+    </td> </tr>
+    <tr> <th scope="row" data-time="15:30">15:30 PM</th> <td>Break 2</td></tr>
+    <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>In-Person Poster Session</td> </tr>
+    </tbody>
+    </table>
+  </div>
+</div>
+
 <hr />
 
 <!-- Speakers -->
