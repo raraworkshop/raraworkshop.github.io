@@ -181,6 +181,249 @@ acknowledgements: ""
 
 <hr />
 
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<ul class="paper-list">
+  <li>
+    <span class="paper-title">Applying RLAIF for Code Generation with API-usage in Lightweight LLMs</span><br>
+    <span class="paper-authors">Sujan Dutta, Sayantan Mahinder, Raviteja Anantha, Bortik Bandyopadhyay</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Are Machines Better at Complex Reasoning? Unveiling Human-Machine Inference Gaps in Entailment Verification</span><br>
+    <span class="paper-authors">Soumya Sanyal, Tianyi Xiao, Jiacheng Liu, Wenya Wang, Xiang Ren</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Are self-explanations from Large Language Models faithful?</span><br>
+    <span class="paper-authors">Andreas Madsen, Sarath Chandar, Siva Reddy</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">COPA-SSE: Semi-structured Explanations for Commonsense Reasoning</span><br>
+    <span class="paper-authors">Ana Brassard, Benjamin Heinzerling, Pride Kavumba, Kentaro Inui</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Concept-aware Data Construction Improves In-context Learning of Language Models</span><br>
+    <span class="paper-authors">Michal Štefánik, Marek Kadlcík, Petr Sojka</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Cooperative Explanation as Rational Communication</span><br>
+    <span class="paper-authors">Kartik Chandra, Tony Chen, Tzu-Mao Li, Jonathan Ragan-Kelley, Joshua B. Tenenbaum</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation</span><br>
+    <span class="paper-authors">Atharvan Dogra, Ameet Deshpande, John J Nay, Tanmay Rajpurohit, Ashwin Kalyan, Balaraman Ravindran</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">DiffuCOMET: Contextual Commonsense Knowledge Diffusion</span><br>
+    <span class="paper-authors">Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs</span><br>
+    <span class="paper-authors">Jierui Li, Ray Mooney</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Examining Participant-specific Goals for a Deeper Understanding of Complex Events</span><br>
+    <span class="paper-authors">Sai Vallurupalli</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Fill in the Blank: Exploring and Enhancing LLM Capabilities for Backward Reasoning in Math Word Problems</span><br>
+    <span class="paper-authors">Aniruddha Deb, Neeva Hareshbhai Oza, Sarthak Singla, Dinesh Khandelwal, Dinesh Garg, Parag Singla</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">From Good to Great: Improving Math Reasoning with Tool-Augmented Interleaf Prompting</span><br>
+    <span class="paper-authors">Nuo Chen, Hongguang Li, Baoyuan Wang, Jia Li</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">GraphReason: Enhancing Reasoning Capabilities of Large Language Models through A Graph-Based Verification Approach</span><br>
+    <span class="paper-authors">Lang Cao</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs</span><br>
+    <span class="paper-authors">Kewei Cheng, Jingfeng Yang, Haoming Jiang, Zhengyang Wang, Binxuan Huang, Ruirui Li, Shiyang Li, Zheng Li, Yifan Gao, Xian Li, Bing Yin, Yizhou Sun</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">It’s Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning</span><br>
+    <span class="paper-authors">Nishant Balepur, Shramay Palta, Rachel Rudinger</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers</span><br>
+    <span class="paper-authors">Theo X. Olausson, Alex Gu, Benjamin Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum, Roger Levy</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">LLMs cannot find reasoning errors, but can correct them given the error location</span><br>
+    <span class="paper-authors">Gladys Tyen, Hassan Mansoor, Victor Carbune, Peter Chen, Tony Mak</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">LOGIC-LM++: Multi-Step Refinement for Symbolic Formulations</span><br>
+    <span class="paper-authors">Shashank Kirtania, Priyanshu Gupta, Arjun Radhakrishna</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models</span><br>
+    <span class="paper-authors">Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Sunghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Large Language Models for Automated Open-domain Scientific Hypotheses Discovery</span><br>
+    <span class="paper-authors">Zonglin Yang, Xinya Du, JUNXIAN LI, Jie Zheng, Soujanya Poria, Erik Cambria</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Large Language Models for Automated Open-domain Scientific Hypotheses Discovery</span><br>
+    <span class="paper-authors">Zonglin Yang, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning</span><br>
+    <span class="paper-authors">Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Multi-hop Question Answering under Temporal Knowledge Editing</span><br>
+    <span class="paper-authors">Keyuan Cheng, Gang Lin, Haoyang Fei, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, Lijie Hu, Di Wang</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset</span><br>
+    <span class="paper-authors">Arda Uzunoğlu, Abdalfatah Rashid Safa, Gözde Gül Şahin</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">PROC2PDDL: Open-Domain Planning Representations from Texts</span><br>
+    <span class="paper-authors">Tianyi Zhang, Li Zhang, Zhaoyi Joey Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Prompt Engineering a Prompt Engineer</span><br>
+    <span class="paper-authors">Qinyuan Ye, Maxamed Axmed, Reid Pryzant, Fereshte Khani</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">QA-NatVer: Question Answering for Natural Logic-based Fact Verification</span><br>
+    <span class="paper-authors">Rami Aly, Marek Strong, Andreas Vlachos</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards</span><br>
+    <span class="paper-authors">Hyeonbin Hwang, Doyoung Kim, Seungone Kim, Seonghyeon Ye, Minjoon Seo</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning</span><br>
+    <span class="paper-authors">Tianduo Wang, Shichen Li, Wei Lu</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span><br>
+    <span class="paper-authors">Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">SummEQuAL: Summarization Evaluation via Question Answering using Large Language Models</span><br>
+    <span class="paper-authors">Junyuan Liu, Zhengyan Shi, Aldo Lipani</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization</span><br>
+    <span class="paper-authors">Yash Kumar Lal, Li Zhang, Faeze Brahman, Bodhisattwa Prasad Majumder, Peter Clark, Niket Tandon</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">TextGenSHAP: Scalable Post-hoc Explanations in Text Generation with Long Documents</span><br>
+    <span class="paper-authors">James Enouen, Hootan Nakhost, Sayna Ebrahimi, Sercan O Arik, Yan Liu, Tomas Pfister</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?</span><br>
+    <span class="paper-authors">Alex Gu, Wen-Ding Li, Naman Jain, Theo X. Olausson, Celine Lee, Koushik Sen, Armando Solar-Lezama</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">The World Is Worth How Many APIs? A Thought Experiment</span><br>
+    <span class="paper-authors">Jiefu Ou, Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models</span><br>
+    <span class="paper-authors">Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim</span><br>
+    <span class="paper-type"><span>[Cross-Submission]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">Towards A Unified View of Answer Calibration for Multi-Step Reasoning</span><br>
+    <span class="paper-authors">Shumin Deng, Ningyu Zhang, Nay Oo, Bryan Hooi</span><br>
+    <span class="paper-type"><span>[Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">WatChat: Explaining perplexing programs by debugging mental models</span><br>
+    <span class="paper-authors">Kartik Chandra, Katherine M. Collins, Will Crichton, Tony Chen, Rachit Nigam, Adrian Weller, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+
+  <li>
+    <span class="paper-title">WebCanvas: Benchmarking Web Agents in Online Environments</span><br>
+    <span class="paper-authors">Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, Shuyan Zhou, Tongshuang Wu, Zhengyang Wu</span><br>
+    <span class="paper-type"><span>[Non-Archival]</span></span><br>
+  </li>
+</ul>
+
+
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
