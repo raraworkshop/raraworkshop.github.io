@@ -243,8 +243,8 @@ acknowledgements: ""
   </li>
 
   <li>
-    <span class="paper-title">Examining Participant-specific Goals for a Deeper Understanding of Complex Events</span><br>
-    <span class="paper-authors">Sai Vallurupalli</span><br>
+    <span class="paper-title">SAGA: A Participant-specific Examination of Story Alternatives and Goal Applicability for a Deeper Understanding of Complex Events</span><br>
+    <span class="paper-authors">Sai Vallurupalli, Katrin Erk, Francis Ferraro</span><br>
     <span class="paper-type"><span>[Cross-Submission]</span></span><br>
   </li>
 
