@@ -48,8 +48,16 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Invited Speaker - Sherry Tongshuang Wu<br />
-      <!-- <span style="font-style:italic">Mechanistic Evidence of Structured Reasoning in LLMs</span>
-      <a href="https://drive.google.com/file/d/1Fg_jiTd7ai20kd7WmEQL-lknSlqOq5bw/view?usp=drive_link" >[Slides]</a> -->
+      <span style="font-style:italic">How do LLMs Change the Practical Impact of LLMs?</span>
+      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk1">
+        Abstract: With the rise of general-purpose LLMs, we also start to think of explanations differently – We now see them less as post-hoc features analyzed by NLP experts and more as a core component of everyday LLM usage for everyone. What exactly do we count as explanations today, and how do we make the best use of them? In this talk, I will review our recent work utilizing and evaluating LLMs in various practical contexts, to reflect on the diverse forms explanations can take and their crucial role in connecting user inputs to final LLM responses. I will also discuss how explanations impact LLM performance, influence user trust and reliance, and emphasize the importance of considering their practical value.
+      </div>
+      <div class="collapse" id="speaker-bio-talk1">
+        Bio: Sherry Tongshuang Wu is an Assistant Professor in the Human-Computer Interaction Institute at Carnegie Mellon University. Her research lies at the intersection of Human-Computer Interaction and Natural Language Processing, and primarily focuses on how humans (AI experts, lay users, domain experts) can practically interact with (debug, audit, and collaborate with) AI systems. To this end, she has worked on assessing NLP model capabilities, supporting human-in-the-loop NLP model debugging and correction, as well as facilitating human-AI collaboration. She has authored award-winning papers in top-tier NLP, HCI and Visualization conferences and journals such as ACL, CHI, TOCHI, TVCG, etc. Before joining CMU, Sherry received her Ph.D. degree from the University of Washington and her bachelor degree from the Hong Kong University of Science and Technology, and has interned at Microsoft Research, Google Research, and Apple. You can find out more about her at <a href="http://cs.cmu.edu/~sherryw">http://cs.cmu.edu/~sherryw</a>.
+      </div>
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
       Invited Speaker - Karthik Narasimhan<br />
@@ -59,8 +67,16 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
       Invited Speaker - Thomas Icard<br />
-      <!-- <span style="font-style:italic">Reasoning in human and machine intelligence</span>
-      <a href="https://docs.google.com/presentation/d/1x3WGLTiCb0BqjM1-FgsmmiyEDRKLCJVp/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <span style="font-style:italic">Towards a pragmatics of explanation</span>
+      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk2">
+        Abstract: Despite decades of work on the topic, there is still no widely accepted theoretical account of explanation. In the talk we will speculate on why that might be the case, as well as offer a proposal for how a unified account might look, integrating insights from philosophy of science, linguistic pragmatics, and the study of causal cognition.
+      </div>
+      <div class="collapse" id="speaker-bio-talk2">
+        Bio: Thomas Icard is Professor of Philosophy and Computer Science (by courtesy) at Stanford University. He works at the intersection of cognitive science, philosophy, and computer science, especially on topics related to reasoning, causality and causal inference, decision making, and natural language.
+      </div>
     </td></tr>
     <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>
       Oral Presentation: Kartik Chandra, Katherine M. Collins, Will Crichton, Tony Chen, Rachit Nigam, Adrian Weller, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley<br/>
@@ -89,22 +105,21 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Lunch Break</td> </tr>
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
       Invited Speaker - Xiang Lorraine Li<br />
-      <!-- <span style="font-style:italic">The role of NL reasoning in the age of GPT</span>
-      <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a>
+      <span style="font-style:italic">Commonsense Knownledge Evaluation for LLMs</span>
+      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk7">
-        Abstract: While the performance of new LLMs is stunning, it remains unclear how (or even if) an answer follows from their latent "beliefs" about the world, or whether an LLM even has a coherent internal belief system. In this talk I'll describe recent work we have done to probe a model's beliefs, construct interpretable representations of how the model's answers systematically follow from them, and how a broader system can identify and repair inconsistencies that may exist among those beliefs. More generally, I'll promote architectures in which interpretable, systematic NL reasoning and LLM-style reasoning co-exist in a broader system, allowing both styles of reasoning to inform each other, and paving the way for more interactive systems where users can probe, argue with, learn from, and teach our future companions.
+        Abstract: Commonsense knowledge is inherently probabilistic and structured with multiple correct answers. For example, the purpose of “boiling water” could be cooking or making tea. However, people in areas with limited access to clean water might view it as a way to remove germs and ensure it’s safe to drink. Unfortunately, this aspect is often overlooked in the current evaluation of commonsense knowledge. To ensure that models can serve diverse populations, it is important to gather multiple responses from a wide range of people and pay extra attention to rare, yet plausible and important, situations. <br> This talk will highlight the limitations of current large language models (LLMs) in their commonsense reasoning abilities. I will then discuss two benchmarks for evaluating commonsense in LLMs. One introduces a method for retrieving commonsense question-answer distributions from human annotators, and the other focuses on assessing the long-tail (uncommon) aspects of commonsense knowledge. The new evaluation benchmarks aim to shed light on making LLMs more robust to long-tail knowledge and better catering to diverse populations.
       </div>
       <div class="collapse" id="speaker-bio-talk7">
-        Peter Clark is a Senior Director and the interim CEO at the Allen Institute for AI (AI2), and leads the Aristo Project. His work focuses on natural language processing, machine reasoning, and world knowledge, and the interplay between these three areas.
-      </div> -->
+        Bio: Xiang Lorraine Li is an assistant professor in the CS department at the University of Pittsburgh. Her research focuses on the intersection of NLP and machine learning, with a particular interest in understanding model behavior through the design of evaluation benchmarks. She explores model performance in complex or long-tail situations, particularly in high-impact domains such as law and education. Her goal is to develop socially responsible, equitable, and robust models that cater to diverse users, populations, cultures, and scenarios. Before joining Pitt, she worked as a young investigator with the Mosaic team at AI2 and completed her Ph.D. in Computer Science at UMass Amherst under the guidance of Andrew McCallum in August 2022.      </div>
     </td> </tr>
     <tr> <th scope="row" data-time="14:45">14:45 PM</th> <td>
       Oral Presentation: Jiefu Ou, Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi<br />
       <span style="font-style:italic">The World Is Worth How Many APIs? A Thought Experiment</span>
-      <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
-      <div class="collapse" id="schedule-talk4">
+      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
+      <div class="collapse" id="schedule-talk8">
         Abstract: AI systems make decisions in physical environments through primitive actions or affordances that are accessed via API calls. While deploying AI agents in the real world involves numerous high-level actions, existing embodied simulators offer a limited set of domain-salient APIs. This naturally brings up the questions: how many primitive actions (APIs) are needed for a versatile embodied agent, and what should they look like? <br>
         We explore this via a thought experiment: assuming that wikiHow tutorials cover a wide variety of human-written tasks, what is the space of APIs needed to cover these instructions? We propose a framework to iteratively induce new APIs by grounding wikiHow instruction to situated agent policies. Inspired by recent successes in large language models (LLMs) for embodied planning, we propose a few-shot prompting to steer GPT-4 to generate Pythonic programs as agent policies and bootstrap a universe of APIs by 1) reusing a seed set of APIs; and then 2) fabricate new API calls when necessary. The focus of this thought experiment is on defining these APIs rather than their executability. <br> We apply the proposed pipeline on instructions from wikiHow tutorials. On a small fraction (0.5%) of tutorials, we induce an action space of 300+ APIs necessary for capturing the rich variety of tasks in the physical world. A detailed automatic and human analysis of the induction output reveals that the proposed pipeline enables effective reuse and creation of APIs. Moreover, a manual review revealed that existing simulators support only a small subset of the induced APIs (9 of the top 50 frequent APIs), motivating the development of action-rich embodied environments.
       </div>
