@@ -48,7 +48,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Invited Speaker - Sherry Tongshuang Wu<br />
-      <span style="font-style:italic">How do LLMs Change the Practical Impact of LLMs?</span>
+      <span style="font-style:italic">How do LLMs Change the Practical Impact of Explanations?</span>
       <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
@@ -61,13 +61,21 @@ acknowledgements: ""
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
       Invited Speaker - Karthik Narasimhan<br />
-      <!-- <span style="font-style:italic">Reasoning in human and machine intelligence</span>
-      <a href="https://docs.google.com/presentation/d/1x3WGLTiCb0BqjM1-FgsmmiyEDRKLCJVp/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <span style="font-style:italic">Reasoning and Reliability in Language Agents</span>
+      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk2">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk2">
+        Abstract: As autonomous agents powered by language models enjoy increasing adoption, it is essential to study their robustness and reliability to ensure safe deployment in real-world systems. In this talk, I will present a couple of our recent studies measuring agent capabilities in realistic environments (SWE-bench, τ-bench), and then discuss how 'reasoning' and 'structure' could provide potential solution pathways to open problems in agent performance and reliability.
+      </div>
+      <div class="collapse" id="speaker-bio-talk2">
+        Bio: Karthik Narasimhan is an associate professor in Computer Science at Princeton and head of research at Sierra. His research spans the areas of natural language processing and reinforcement learning, with the goal of building intelligent agents that learn to operate in the world through both their own experience ("doing things") and leveraging existing human knowledge ("reading about things"). Karthik received his PhD from MIT in 2017, and spent a year as a visiting research scientist at OpenAI in 2017-18 contributing to the first GPT language model. His research has been recognized by the NSF CAREER, an NAE Grainger Foundation grant, a Google Research Scholar Award, an Amazon research award, Bell Labs runner-up prize and outstanding paper awards at EMNLP (2015, 2016) and NeurIPS (2022).
+      </div>
     </td></tr>
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
       Invited Speaker - Thomas Icard<br />
-      <span style="font-style:italic">Towards a pragmatics of explanation</span>
+      <span style="font-style:italic">Towards a Pragmatics of Explanation</span>
       <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
