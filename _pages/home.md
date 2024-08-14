@@ -77,20 +77,20 @@ acknowledgements: ""
       Invited Speaker - Thomas Icard<br />
       <span style="font-style:italic">Towards a Pragmatics of Explanation</span>
       <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
-      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
-      <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
-      <div class="collapse" id="schedule-talk2">
+      <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
+      <a data-toggle="collapse" href="#speaker-bio-talk3" aria-cexpanded="false" aria-controls="speaker-bio-talk3">[Speaker Bio]</a>
+      <div class="collapse" id="schedule-talk3">
         Abstract: Despite decades of work on the topic, there is still no widely accepted theoretical account of explanation. In the talk we will speculate on why that might be the case, as well as offer a proposal for how a unified account might look, integrating insights from philosophy of science, linguistic pragmatics, and the study of causal cognition.
       </div>
-      <div class="collapse" id="speaker-bio-talk2">
+      <div class="collapse" id="speaker-bio-talk3">
         Bio: Thomas Icard is Professor of Philosophy and Computer Science (by courtesy) at Stanford University. He works at the intersection of cognitive science, philosophy, and computer science, especially on topics related to reasoning, causality and causal inference, decision making, and natural language.
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>
       Oral Presentation: Kartik Chandra, Katherine M. Collins, Will Crichton, Tony Chen, Rachit Nigam, Adrian Weller, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley<br/>
       <span style="font-style:italic">WatChat: Explaining perplexing programs by debugging mental models</span>
-      <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
-      <div class="collapse" id="schedule-talk8">
+      <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
+      <div class="collapse" id="schedule-talk4">
         Abstract: Often, a good explanation for a program's unexpected behavior is a bug in the programmer's code. But sometimes, an even better explanation is a bug in the programmer's mental model of the language or API they are using. Instead of merely debugging our current code (giving the programmer a fish''), what if our tools could directly debug our mental models (teaching the programmer to fish'')? <br> In this paper, we apply recent ideas from computational cognitive science to offer a principled framework for doing exactly that. Given a ``why?'' question about a program, we automatically infer potential misconceptions about the language/API that might cause the user to be surprised by the program's behavior---and then analyze those misconceptions to provide explanations of the program's behavior. Our key idea is to formally represent misconceptions as counterfactual (erroneous) semantics for the language/API, which can be inferred and debugged using program synthesis techniques. <br> We demonstrate our framework, WatChat, by building systems for explanation in two domains: JavaScript type coercion, and the Git version control system. We evaluate WatChatJS and WatChatGit by comparing their outputs to experimentally-collected human-written explanations in these two domains: we show that WatChat explanations exhibit key features of human-written explanation, unlike those of a state-of-the-art language model.
       </div>
     </td> </tr>
