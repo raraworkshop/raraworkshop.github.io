@@ -49,7 +49,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Invited Speaker - Sherry Tongshuang Wu<br />
       <span style="font-style:italic">How do LLMs Change the Practical Impact of Explanations?</span>
-      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a href="https://drive.google.com/file/d/1QtSoJJVUoE2B2xzGZ2sTKoNmSmYcdbwm/view" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk1">
@@ -62,7 +62,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
       Invited Speaker - Karthik Narasimhan<br />
       <span style="font-style:italic">Reasoning and Reliability in Language Agents</span>
-      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a href="https://drive.google.com/file/d/1--DivHznalZsDVeGIjClLPdlZpJ5eD5M/view" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk2">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk2">
@@ -114,7 +114,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
       Invited Speaker - Xiang Lorraine Li<br />
       <span style="font-style:italic">Commonsense Knownledge Evaluation for LLMs</span>
-      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a href="https://drive.google.com/file/d/1_UlyndSOrVte-8EzY_T9e-uz0-DvIirL/view" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk7">
