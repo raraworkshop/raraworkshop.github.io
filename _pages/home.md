@@ -1,6 +1,6 @@
 ---
 layout: default
-urltitle:  ""
+urltitle:  "RARA"
 title: RARA Grounding Documents with Reasoning, Agents, Retrieval, and Attribution
 categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, naacl, 2021
 permalink: /
