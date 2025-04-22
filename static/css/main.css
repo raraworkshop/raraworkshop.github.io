@@ -98,22 +98,22 @@ a {
   border-radius: 5px;
 }
 
-#title h1 .r1 {
+.r1 {
   font-weight: bold;
   color: #ec6a15;
 }
 
-#title h1 .a1 {
+.a1 {
   font-weight: bold;
   color: #1b9d9e;
 }
 
-#title h1 .r2 {
+.r2 {
   font-weight: bold;
   color: #de3c70;
 }
 
-#title h1 .a2 {
+.a2 {
   font-weight: bold;
   color: #f3a927;
 }
