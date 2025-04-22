@@ -25,25 +25,8 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-          Documents serve as the backbone of knowledge preservation, decision-making, and information dissemination across domains such as law, finance, medicine, and academia. They encapsulate structured and unstructured data, requiring sophisticated processing to extract, synthesize, and verify critical insights. As AI-driven document understanding advances, ensuring factual accuracy, reasoning over complex contexts, and attributing information to reliable sources becomes increasingly vital.
+          With recent scaling of large pre-trained Transformer language models (LLMs), the scope of feasible NLP tasks has broadened. Significant recent work has focused on tasks that require some kind of natural language reasoning. A trajectory in question answering has led us from extraction-oriented datasets like SQuAD to “multi-hop” reasoning datasets like HotpotQA and StrategyQA. Although LLMs have shown remarkable performance on most NLP tasks, it is often unclear why their answers follow from what they know. To address this gap, a new class of explanation techniques has emerged which play an integral part in structuring the reasoning necessary to solve these datasets. For example, the chain-of-thought paradigm leverages explanations as vehicles for LLMs to mimic human reasoning processes. Entailment trees offer a way to ground multi-step reasoning in a collection of verifiable steps. Frameworks like SayCan bridge high-level planning in language and with low-level action trajectories. As a result, we see a confluence of methods blending explainable machine learning/NLP, classical AI (especially theorem proving), and cognitive science (how do humans structure explanations?). This workshop aims to bring together a diverse set of perspectives from these different traditions and attempt to establish common ground for how these various kinds of explanation structures can tackle a broad class of reasoning problems in natural language and beyond.
         </p>
-
-  <p>
-        The RARA workshop addresses persistent challenges in document processing that have been amplified in the era of Large Language Models (LLMs). Extracting information from complex, multi-modal documents often requires reasoning over multiple sections, linking disparate pieces of evidence, and ensuring consistency across sources.
-        Attribution remains a key issue, as models struggle to trace generated content back to reliable references, making verification difficult. While LLMs have improved contextual understanding, they also introduce risks such as hallucinations, overgeneralization, and opacity in their decision-making.
-        Our workshop explores frameworks that ground document understanding through four key emerging pillars:
-
-  </p>
-        <ol>
-        <li>Reasoning: Structured mechanisms to navigate complex inference chains and resolve ambiguities</li>
-        <li>Agents: Specialized components working together on complex tasks with access to executable tools </li>
-        <li>Retrieval: Methods for finding and integrating relevant information to ground AI responses</li>
-        <li>Attribution: Techniques to ensure AI-generated content remains traceable to reliable sources</li>
-        </ol>
-
-           
-
-        
     </div>
 </div>
 
