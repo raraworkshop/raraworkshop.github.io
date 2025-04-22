@@ -171,7 +171,7 @@ TBA
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://manansuri.com/">
-      <img class="people-pic" "{{ "/static/img/people/manan-suri.png" prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/manan-suri.png" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://manansuri.com/">Manan Suri</a>
@@ -198,7 +198,7 @@ TBA
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://research.adobe.com/person/nedim-lipka/">
-      <img class="people-pic" "{{ "/static/img/people/nedim-lipka.png" prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/nedim-lipka.png" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://research.adobe.com/person/nedim-lipka/">Nedim Lipka</a>
@@ -216,7 +216,7 @@ TBA
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="http://ryanrossi.com/">
-      <img class="people-pic" "{{ "/static/img/people/ryan-rossi.jpg" prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/ryan-rossi.jpg" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://ryanrossi.com/img/ryan-rossi.jpg">Ryan A. Rossi</a>
