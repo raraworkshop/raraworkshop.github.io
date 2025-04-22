@@ -219,7 +219,7 @@ TBA
       <img class="people-pic" src="http://ryanrossi.com/img/ryan-rossi.jpg">
     </a>
     <div class="people-name">
-      <a href="http://ryanrossi.com/">Ryan A. Rossi</a>
+      <a href="http://ryanrossi.com/img/ryan-rossi.jpg">Ryan A. Rossi</a>
       <h6>Adobe Research</h6>
     </div>
   </div>
