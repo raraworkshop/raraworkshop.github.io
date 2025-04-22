@@ -171,11 +171,11 @@ TBA
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://manansuri.com/">
-      <img class="people-pic" src="https://manansuri.com/assets/img/manansuri.jpeg?2f6fdb2d86b3f7d40a4a10d009afe8ac">
+      <img class="people-pic" "{{ "/static/img/people/manan-suri.png" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://manansuri.com/">Manan Suri</a>
-      <h6>UMD</h6>
+      <h6>University of Maryland, College Park</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -193,12 +193,12 @@ TBA
     </a>
     <div class="people-name">
       <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha</a>
-      <h6>UMD</h6>
+      <h6>University of Maryland, College Park</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://research.adobe.com/person/nedim-lipka/">
-      <img class="people-pic" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBPSNWJyogDIZcxcNEdFvAjzp-CujUv3MkvmfIddgw07-5Les7FAhz4PGu0UdJz-49GHJYl6L2ng3IFP8-KNTSYw">
+      <img class="people-pic" "{{ "/static/img/people/nedim-lipka.png" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://research.adobe.com/person/nedim-lipka/">Nedim Lipka</a>
@@ -216,7 +216,7 @@ TBA
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="http://ryanrossi.com/">
-      <img class="people-pic" src="http://ryanrossi.com/img/ryan-rossi.jpg">
+      <img class="people-pic" "{{ "/static/img/people/ryan-rossi.jpg" prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://ryanrossi.com/img/ryan-rossi.jpg">Ryan A. Rossi</a>
