@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Natural Language Reasoning and Structured Explanations Workshop"
-title: "Natural Language Reasoning and Structured Explanations Workshop"
+urltitle:  ""
+title: "RARA: Grounding Documents with Reasoning, Agents, Retrieval, and Attribution"
 categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, naacl, 2021
 permalink: /
 bibtex: true
