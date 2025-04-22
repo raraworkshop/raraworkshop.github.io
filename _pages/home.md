@@ -170,75 +170,75 @@ TBA
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.utexas.edu/~gdurrett//">
-      <img class="people-pic" src="https://www.cs.utexas.edu/~gdurrett/photo.png">
+    <a href="https://manansuri.com/">
+      <img class="people-pic" src="https://manansuri.com/assets/img/manansuri.jpeg?2f6fdb2d86b3f7d40a4a10d009afe8ac">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~gdurrett/">Greg Durrett</a>
-      <h6>University of Texas, Austin</h6>
+      <a href="https://manansuri.com/">Manan Suri</a>
+      <h6>UMD</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://allenai.org/team/bhavanad/">
-      <img class="people-pic" src="https://images.ctfassets.net/wf5t1ptx352c/6W6eEkb6MMkoU8gYM8CWgW/d2f1d7519f70705caef84f2a5b1af39b/Bhavana-Dalvi.jpg">
+    <a href="https://themadaiguy.github.io/">
+      <img class="people-pic" src="https://themadaiguy.github.io/images/me.jpeg">
     </a>
     <div class="people-name">
-      <a href="https://allenai.org/team/bhavanad/">Bhavana Dalvi</a>
-      <h6>Allen Institute for AI</h6>
+      <a href="https://themadaiguy.github.io/">Puneet Mathur</a>
+      <h6>Adobe Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://cognitiveai.org/">
-      <img class="people-pic" src="http://cognitiveai.org/wp-content/uploads/2016/10/peter_tedx-300x300.jpg">
+    <a href="https://www.cs.umd.edu/people/dmanocha">
+      <img class="people-pic" src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/dm2018-face.jpg?itok=wwxP9awz&c=5e78df7bb2c9fdf76c715ab0fc275068">
     </a>
     <div class="people-name">
-      <a href="https://cognitiveai.org/">Peter Jansen</a>
-      <h6>University of Arizona</h6>
+      <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha</a>
+      <h6>UMD</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://dnr2.github.io/academic_website/">
-      <img class="people-pic" src="https://dnr2.github.io/academic_website/images/profile.jpg">
+    <a href="https://research.adobe.com/person/nedim-lipka/">
+      <img class="people-pic" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBPSNWJyogDIZcxcNEdFvAjzp-CujUv3MkvmfIddgw07-5Les7FAhz4PGu0UdJz-49GHJYl6L2ng3IFP8-KNTSYw">
     </a>
     <div class="people-name">
-      <a href="https://dnr2.github.io/academic_website/">Danilo Ribeiro</a>
-      <h6>Amazon AWS</h6>
+      <a href="https://research.adobe.com/person/nedim-lipka/">Nedim Lipka</a>
+      <h6>Adobe Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://web.mit.edu/zyzzyva/www/academic.html">
-      <img class="people-pic" src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png">
+    <a href="https://research.adobe.com/person/franck-dernoncourt/">
+      <img class="people-pic" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ346TTyuU5GRmYexf-JmalGk0xLMdU2IWdnv6n65JyeH2PW-0w">
     </a>
     <div class="people-name">
-      <a href="https://web.mit.edu/zyzzyva/www/academic.html">Lionel Wong</a>
-      <h6>MIT</h6>
+      <a href="https://research.adobe.com/person/franck-dernoncourt/">Franck Dernoncourt</a>
+      <h6>Adobe Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://xiye17.github.io/">
-      <img class="people-pic" src="https://xiye17.github.io/avatar.jpg">
+    <a href="http://ryanrossi.com/">
+      <img class="people-pic" src="http://ryanrossi.com/img/ryan-rossi.jpg">
     </a>
     <div class="people-name">
-      <a href="https://xiye17.github.io/">Xi Ye</a>
-      <h6>University of Texas, Austin</h6>
+      <a href="http://ryanrossi.com/">Ryan A. Rossi</a>
+      <h6>Adobe Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://wenting-zhao.github.io/">
-      <img class="people-pic" src="https://avatars.githubusercontent.com/u/8762524?v=4">
+    <a href="https://search.asu.edu/profile/5176374">
+      <img class="people-pic" src="https://webapp4.asu.edu/photo-ws/directory_photo/vgupt140?size=medium&break=1744598457&blankImage2=1">
     </a>
     <div class="people-name">
-      <a href="https://wenting-zhao.github.io/">Wenting Zhao</a>
-      <h6>Cornell University</h6>
+      <a href="https://search.asu.edu/profile/5176374">Vivek Gupta</a>
+      <h6>Arizona State University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://benlipkin.github.io/index.html">
-      <img class="people-pic" src="https://benlipkin.github.io/assets/images/compressed-816x816.jpg">
+    <a href="https://www.linkedin.com/in/ramit-sawhney/">
+      <img class="people-pic" src="https://media.licdn.com/dms/image/v2/D5603AQFoDmBl8Ze9jA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723698169758?e=1750291200&v=beta&t=e_jQYSa6DIgFmScM2YvFDDzkmgcf9QZjNZGS4hatNRc">
     </a>
     <div class="people-name">
-      <a href="https://benlipkin.github.io/index.html">Ben Lipkin</a>
-      <h6>MIT</h6>
+      <a href="https://www.linkedin.com/in/ramit-sawhney/">Ramit Sawhney</a>
+      <h6>Georgia Institute of Technology</h6>
     </div>
   </div>
 </div>
