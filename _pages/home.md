@@ -34,16 +34,16 @@ Our workshop explores frameworks that ground document understanding through four
 
   <ul>
   <li>
-    <strong>Reasoning:</strong> Structured mechanisms to navigate complex inference chains and resolve ambiguities
+    <strong><span class="r1">Reasoning:</span></strong> Structured mechanisms to navigate complex inference chains and resolve ambiguities
   </li>
   <li>
-    <strong>Agents:</strong> Specialized components working together on complex tasks with access to executable tools
+    <strong><span class="a1">Agents:</span></strong> Specialized components working together on complex tasks with access to executable tools
   </li>
   <li>
-    <strong>Retrieval:</strong> Methods for finding and integrating relevant information to ground AI responses
+    <strong><span class="r2">Retrieval:</span></strong> Methods for finding and integrating relevant information to ground AI responses
   </li>
   <li>
-    <strong>Attribution:</strong> Techniques to ensure AI-generated content remains traceable to reliable sources
+    <strong><span class="a2">Attribution:</span></strong> Techniques to ensure AI-generated content remains traceable to reliable sources
   </li>
 </ul>
 
@@ -75,7 +75,7 @@ TBA
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite submissions to the first international workshop on <strong>Reasoning, Agents, Retrieval, and Attribution (RARA)</strong> for grounding documents, to be held in conjunction with <strong>ICDM 2025</strong>.
+      We invite submissions to the first international workshop on Reasoning, Agents, Retrieval, and Attribution (RARA) for grounding documents, to be held in conjunction with ICDM 2025.
     </p>
     <p>
       As documents continue to serve as the foundation of knowledge across domains like law, finance, healthcare, and academia, AI systems must develop more sophisticated capabilities to process, interpret, and reason over these complex information sources. The RARA workshop aims to bring together researchers and practitioners working at the intersection of document understanding, reasoning systems, multi-agent architectures, and information retrieval to address key challenges in this rapidly evolving field.
@@ -112,16 +112,16 @@ TBA
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Paper submissions should be limited to a maximum of <b>ten (10) pages</b> in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>, including the bibliography and any appendices. Submissions longer than 10 pages will be <b>rejected without review</b>.
+      Paper submissions should be limited to a maximum of ten (10) pages in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>, including the bibliography and any appendices. Submissions longer than 10 pages will be rejected without review.
     </p>
     <p>
-      All submissions will be <b>triple-blind reviewed</b> by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
+      All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
     </p>
     <p>
-      Accepted papers will be included in the <b>ICDM Workshop Proceedings</b> (separate from the ICDM Main Conference Proceedings), and each workshop paper requires a <b>full registration</b>.
+      Accepted papers will be included in the ICDM Workshop Proceedings (separate from the ICDM Main Conference Proceedings), and each workshop paper requires a full registration.
     </p>
     <p>
-      Duplicate submissions of the same paper to more than one ICDM workshop are <b>forbidden</b>.
+      Duplicate submissions of the same paper to more than one ICDM workshop are forbidden.
     </p>
     <p>
       <b>Submission Link:</b> TBA
