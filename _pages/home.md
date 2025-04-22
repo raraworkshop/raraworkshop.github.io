@@ -51,14 +51,14 @@ Our workshop explores frameworks that ground document understanding through four
 </div>
 
 <br />
-
+<!-- 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
     <h2>Schedule</h2>
   </div>
-  <!-- <div class="col-md-8 col-xs-12">
+  <div class="col-md-8 col-xs-12">
       <select id="timezone-select" class="form-control"></select>
-  </div> -->
+  </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
@@ -96,7 +96,7 @@ Our workshop explores frameworks that ground document understanding through four
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
       Invited Speaker - Thomas Icard<br />
       <span style="font-style:italic">Towards a Pragmatics of Explanation</span>
-      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> 
       <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk3" aria-cexpanded="false" aria-controls="speaker-bio-talk3">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk3">
@@ -173,7 +173,7 @@ Our workshop explores frameworks that ground document understanding through four
     </tbody>
     </table>
   </div>
-</div>
+</div> -->
 
 <hr />
 
