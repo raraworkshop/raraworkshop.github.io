@@ -28,7 +28,7 @@ acknowledgements: ""
           Documents serve as the backbone of knowledge preservation, decision-making, and information dissemination across domains such as law, finance, medicine, and academia. They encapsulate structured and unstructured data, requiring sophisticated processing to extract, synthesize, and verify critical insights. As AI-driven document understanding advances, ensuring factual accuracy, reasoning over complex contexts, and attributing information to reliable sources becomes increasingly vital.
 
 The RARA workshop addresses persistent challenges in document processing that have been amplified in the era of Large Language Models (LLMs). Extracting information from complex, multi-modal documents often requires reasoning over multiple sections, linking disparate pieces of evidence, and ensuring consistency across sources. Attribution remains a key issue, as models struggle to trace generated content back to reliable references, making verification difficult. While LLMs have improved contextual understanding, they also introduce risks such as hallucinations, overgeneralization, and opacity in their decision-making.
-Our workshop explores frameworks that ground document understanding through four key emerging pillars
+Our workshop explores frameworks that ground document understanding through four key emerging pillars:
 
         </p>
 
@@ -112,16 +112,16 @@ TBA
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Paper submissions should be limited to a maximum of ten (10) pages in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>, including the bibliography and any appendices. Submissions longer than 10 pages will be rejected without review.
+      Paper submissions should be limited to a maximum of ten (10) pages in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>. Submissions longer than 10 pages will be rejected without review.
     </p>
     <p>
-      All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
+      All submissions will be double-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
     </p>
     <p>
       Accepted papers will be included in the ICDM Workshop Proceedings (separate from the ICDM Main Conference Proceedings), and each workshop paper requires a full registration.
     </p>
     <p>
-      Duplicate submissions of the same paper to more than one ICDM workshop are forbidden.
+      Authors are allowed to release preprints of their work at any point of the process. Duplicate submissions of the same paper to more than one ICDM worksho or another venue are not allowed.
     </p>
     <p>
       <b>Submission Link:</b> TBA
@@ -144,7 +144,7 @@ TBA
           <td>Aug 29, 2025</td>
         </tr>
         <tr>
-          <td>Notification of workshop papers acceptance to authors</td>
+          <td>Notification of paper acceptance</td>
           <td>Sep 15, 2025</td>
         </tr>
         <tr>

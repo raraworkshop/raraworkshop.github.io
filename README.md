@@ -1,4 +1,4 @@
-# nl-reasoning-workshop.github.io
-Webpage source files for Natural Language Reasoning and Structured Explanations
+# raraworkshop.github.io
+Webpage source files for RARA Workshop
 
-https://nl-reasoning-workshop.github.io/
+https://raraworkshop.github.io/
