@@ -77,6 +77,7 @@ a {
 #title {
   background-image: url("../img/background/chris-grafton-9OPrqaDqLAs-unsplash.jpg");
   background-size: cover;
+  background-position: center;
   padding: 50px 0px;
 }
 
