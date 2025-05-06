@@ -112,19 +112,20 @@ TBA
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Paper submissions should be limited to a maximum of ten (10) pages in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>. Submissions longer than 10 pages will be rejected without review.
+      Paper submissions should be limited to a maximum of ten (10) pages including the bibliography and any appendices, in the <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#2980b9;font-weight:400;">IEEE 2-column format</a>. Submissions longer than 10 pages will be rejected without review.
     </p>
     <p>
       All submissions will be double-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
     </p>
     <p>
-      Accepted papers will be included in the ICDM Workshop Proceedings (separate from the ICDM Main Conference Proceedings), and each workshop paper requires a full registration.
+      Accepted papers will be included in the ICDM Workshop Proceedings (separate from the ICDM Main Conference Proceedings), and each workshop paper requires a full registration. All accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
     </p>
     <p>
-      Authors are allowed to release preprints of their work at any point of the process. Duplicate submissions of the same paper to more than one ICDM worksho or another venue are not allowed.
+      Authors are allowed to release preprints of their work at any point of the process. Duplicate submissions of the same paper to more than one ICDM workshop or another venue are not allowed.
     </p>
     <p>
-      <b>Submission Link:</b> TBA
+      <b>Submission Link:</b> <a href="https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S18&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php" target="_blank">Click here to submit</a>
+
     </p>
   </div>
 </div>
