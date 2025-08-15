@@ -267,7 +267,7 @@ Our workshop explores frameworks that ground document understanding through four
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.linkedin.com/in/ramit-sawhney/">
-      <img class="people-pic" src="https://media.licdn.com/dms/image/v2/D5603AQFoDmBl8Ze9jA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723698169758?e=1750291200&v=beta&t=e_jQYSa6DIgFmScM2YvFDDzkmgcf9QZjNZGS4hatNRc">
+      <img class="people-pic" src="https://pbs.twimg.com/profile_images/1823949086040424448/uRUrIU66_400x400.jpg">
     </a>
     <div class="people-name">
       <a href="https://www.linkedin.com/in/ramit-sawhney/">Ramit Sawhney</a>
