@@ -60,7 +60,39 @@ Our workshop explores frameworks that ground document understanding through four
   </div>
 </div>
 
-TBA
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.cs.unc.edu/~mbansal/">
+      <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>
+      <h6>University of North Carolina at Chapel Hill</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.phontron.com/">
+      <img class="people-pic" src="https://www.cs.cmu.edu/~neulab/assets/images/members/gneubig.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://www.phontron.com/">Graham Neubig</a>
+      <h6>Carnegie Mellon University, All Hands AI</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://groups.cs.umass.edu/zamani/">
+      <img class="people-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBDwJezLv5CRKhVKnbdr3f0M2mSYo5pQE7P9UwP7QKMhWAS5b">
+    </a>
+    <div class="people-name">
+      <a href="https://groups.cs.umass.edu/zamani/">Hamed Zamani</a>
+      <h6>University of Massachusetts Amherst</h6>
+    </div>
+  </div>
+</div>
+
+
 
 
 <hr />
