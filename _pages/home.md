@@ -61,7 +61,7 @@ Our workshop explores frameworks that ground document understanding through four
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 col-lg-offset-1">
     <a href="https://www.cs.unc.edu/~mbansal/">
       <img class="people-pic" src="https://www.cs.unc.edu/~mbansal/images/mohitbansal2025.png">
     </a>
