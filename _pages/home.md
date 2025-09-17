@@ -178,7 +178,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         <tr>
           <td>Notification of paper acceptance</td>
-          <td>Sep 15, 2025</td>
+          <td><s>Sep 15, 2025</s> → Sep 19, 2025</td>
         </tr>
         <tr>
           <td>Camera-ready deadline and copyright form</td>
