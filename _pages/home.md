@@ -135,7 +135,271 @@ Our workshop explores frameworks that ground document understanding through four
 <hr />
 
 
-<!-- Submission -->
+<!-- Schedule -->
+
+<hr />
+<div class="row" id="schedule">
+  <div class="col-xs-12">
+    <h2>Workshop Schedule</h2>
+    <p style="color: #666; margin-bottom: 20px;">November 12, 2025 (Tentative) • All times in local time</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <style>
+      .schedule-table {
+        border: none;
+        background: white;
+      }
+      .schedule-table thead th {
+        background-color: #2c3e50;
+        color: white;
+        font-weight: 600;
+        border: none;
+        padding: 12px 15px;
+        text-transform: uppercase;
+        font-size: 12px;
+        letter-spacing: 0.5px;
+      }
+      .schedule-table tbody tr {
+        border-bottom: 1px solid #ecf0f1;
+        transition: background-color 0.2s ease;
+      }
+      .schedule-table tbody tr:hover {
+        background-color: #f8f9fa;
+      }
+      .schedule-table td {
+        padding: 15px;
+        vertical-align: top;
+        border: none;
+      }
+      .schedule-time {
+        font-weight: 600;
+        color: #2c3e50;
+        white-space: nowrap;
+        min-width: 110px;
+      }
+      .schedule-type {
+        font-size: 11px;
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        padding: 4px 8px;
+        border-radius: 3px;
+        display: inline-block;
+        min-width: 70px;
+        text-align: center;
+      }
+      .type-keynote {
+        background-color: #3498db;
+        color: white;
+      }
+      .type-paper {
+        background-color: #2ecc71;
+        color: white;
+      }
+      .type-opening, .type-closing {
+        background-color: #9b59b6;
+        color: white;
+      }
+      .type-break {
+        background-color: #e67e22;
+        color: white;
+      }
+      .type-buffer {
+        background-color: #95a5a6;
+        color: white;
+      }
+      .schedule-title {
+        font-weight: 500;
+        color: #2c3e50;
+        margin-bottom: 5px;
+      }
+      .schedule-authors {
+        color: #7f8c8d;
+        font-size: 14px;
+        font-style: italic;
+      }
+      .schedule-mode {
+        font-size: 13px;
+        color: #7f8c8d;
+      }
+      .mode-virtual {
+        color: #3498db;
+        font-weight: 500;
+      }
+      .mode-inperson {
+        color: #27ae60;
+        font-weight: 500;
+      }
+      .break-row td {
+        background-color: #fff3e0 !important;
+        font-weight: 600;
+        text-align: center;
+      }
+      @media (max-width: 768px) {
+        .schedule-table thead {
+          display: none;
+        }
+        .schedule-table tbody tr {
+          display: block;
+          margin-bottom: 20px;
+          border: 1px solid #ecf0f1;
+          border-radius: 5px;
+          padding: 10px;
+        }
+        .schedule-table td {
+          display: block;
+          text-align: left !important;
+          padding: 8px 10px;
+          border: none;
+        }
+        .schedule-time {
+          font-size: 16px;
+          margin-bottom: 8px;
+          display: block;
+        }
+        .schedule-time::before {
+          content: "🕐 ";
+        }
+      }
+    </style>
+
+    <table class="table schedule-table">
+      <thead>
+        <tr>
+          <th style="width: 130px;">Time</th>
+          <th style="width: 100px;">Type</th>
+          <th>Title/Speaker</th>
+          <th style="width: 100px;">Mode</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="schedule-time">8:30 - 8:40</td>
+          <td><span class="schedule-type type-opening">Opening</span></td>
+          <td>
+            <div class="schedule-title">Nedim Lipka - Opening Speech</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">8:40 - 9:15</td>
+          <td><span class="schedule-type type-keynote">Keynote</span></td>
+          <td>
+            <div class="schedule-title">Graham Neubig - Large Language Models for Information Synthesis over Long Contexts</div>
+            <div class="schedule-authors">30 min + 5 min Q&A</div>
+          </td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">9:15 - 9:30</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">"Lost-in-the-Later": Framework for Quantifying Contextual Grounding in Large Language Models</div>
+            <div class="schedule-authors">Yufei Tao, Adam Hiatt, Rahul Seetharaman, Ameeta Agrawal</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">9:30 - 9:45</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">Agentic Meta-Orchestrator for Multi-task Copilots</div>
+            <div class="schedule-authors">Xiaofeng Zhu, Yunshen Zhou</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">9:45 - 10:20</td>
+          <td><span class="schedule-type type-keynote">Keynote</span></td>
+          <td>
+            <div class="schedule-title">Hamed Zamani - Retrieval-Augmented Reasoning</div>
+            <div class="schedule-authors">30 min + 5 min Q&A</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr class="break-row">
+          <td class="schedule-time">10:20 - 10:35</td>
+          <td colspan="3"><span class="schedule-type type-break">☕ Coffee Break</span></td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">10:35 - 10:50</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">From Regulations to IDS: A Tool-Augmented LLM Pipeline for Automated BIM Rule Checks</div>
+            <div class="schedule-authors">Ivan Perov, Anastasiia Filatova, Egor Timoschak, Denis Nasonov</div>
+          </td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">10:50 - 11:25</td>
+          <td><span class="schedule-type type-keynote">Keynote</span></td>
+          <td>
+            <div class="schedule-title">Mohit Bansal - TBA</div>
+            <div class="schedule-authors">30 min + 5 min Q&A</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">11:25 - 11:40</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">Attribution Quality in AI-Generated Content: Benchmarking Style Embeddings and LLM Judges</div>
+            <div class="schedule-authors">Misam Abbas</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">11:40 - 11:55</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">Retrieval and Augmentation of Domain Knowledge for Text-to-SQL Semantic Parsing</div>
+            <div class="schedule-authors">Manasi Patwardhan, Ayush Agarwal, Shabbirhussain Bhaisaheb, Aseem Arora, Lovekesh Vig, Sunita Sarawagi</div>
+          </td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">11:55 - 12:10</td>
+          <td><span class="schedule-type type-paper">Paper</span></td>
+          <td>
+            <div class="schedule-title">From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning</div>
+            <div class="schedule-authors">Ahmed Bahloul, Simon Malberg</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">12:10 - 12:20</td>
+          <td><span class="schedule-type type-closing">Closing</span></td>
+          <td>
+            <div class="schedule-title">Manan Suri, Puneet Mathur - Concluding Statement</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr class="break-row">
+          <td class="schedule-time">12:20 - 12:30</td>
+          <td colspan="3"><span class="schedule-type type-buffer">Buffer</span> - Networking/Overrun buffer</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<hr />
+
+<!-- Submission
 <div class="row" id="guidelines">
   <div class="col-xs-12">
     <h2>Submission Guidelines</h2>
@@ -160,7 +424,7 @@ Our workshop explores frameworks that ground document understanding through four
 
     </p>
   </div>
-</div>
+</div> -->
 
 
 <hr />
