@@ -141,7 +141,7 @@ Our workshop explores frameworks that ground document understanding through four
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Workshop Schedule</h2>
-    <p style="color: #666; margin-bottom: 20px;">November 12, 2025 (Tentative) • All times in local time</p>
+    <p style="color: #666; margin-bottom: 20px;">November 12, 2025  • All times in local time</p>
   </div>
 </div>
 
@@ -450,7 +450,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         <tr>
           <td>Workshop date</td>
-          <td>Nov 12, 2025 (Tentative)</td>
+          <td>Nov 12, 2025</td>
         </tr>
       </tbody>
     </table>
