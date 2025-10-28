@@ -141,7 +141,7 @@ Our workshop explores frameworks that ground document understanding through four
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Workshop Schedule</h2>
-    <p style="color: #666; margin-bottom: 20px;">November 12, 2025  • All times in local time</p>
+    <p style="color: #666; margin-bottom: 20px;">November 12, 2025 • All times in local time</p>
   </div>
 </div>
 
@@ -341,17 +341,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         
         <tr>
-          <td class="schedule-time">10:50 - 11:25</td>
-          <td><span class="schedule-type type-keynote">Keynote</span></td>
-          <td>
-            <div class="schedule-title">Mohit Bansal - TBA</div>
-            <div class="schedule-authors">30 min + 5 min Q&A</div>
-          </td>
-          <td class="schedule-mode mode-inperson">In-person</td>
-        </tr>
-        
-        <tr>
-          <td class="schedule-time">11:25 - 11:40</td>
+          <td class="schedule-time">10:50 - 11:05</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
             <div class="schedule-title">Attribution Quality in AI-Generated Content: Benchmarking Style Embeddings and LLM Judges</div>
@@ -361,7 +351,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         
         <tr>
-          <td class="schedule-time">11:40 - 11:55</td>
+          <td class="schedule-time">11:05 - 11:20</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
             <div class="schedule-title">Retrieval and Augmentation of Domain Knowledge for Text-to-SQL Semantic Parsing</div>
@@ -370,8 +360,23 @@ Our workshop explores frameworks that ground document understanding through four
           <td class="schedule-mode mode-virtual">Virtual</td>
         </tr>
         
+        <tr class="break-row">
+          <td class="schedule-time">11:20 - 11:30</td>
+          <td colspan="3"><span class="schedule-type type-buffer">BUFFER</span> - Overflow / Networking</td>
+        </tr>
+        
         <tr>
-          <td class="schedule-time">11:55 - 12:10</td>
+          <td class="schedule-time">11:30 - 12:05</td>
+          <td><span class="schedule-type type-keynote">Keynote</span></td>
+          <td>
+            <div class="schedule-title">Mohit Bansal - TBA</div>
+            <div class="schedule-authors">30 min + 5 min Q&A</div>
+          </td>
+          <td class="schedule-mode mode-inperson">In-person</td>
+        </tr>
+        
+        <tr>
+          <td class="schedule-time">12:05 - 12:20</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
             <div class="schedule-title">From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning</div>
@@ -381,17 +386,12 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         
         <tr>
-          <td class="schedule-time">12:10 - 12:20</td>
+          <td class="schedule-time">12:20 - 12:30</td>
           <td><span class="schedule-type type-closing">Closing</span></td>
           <td>
             <div class="schedule-title">Manan Suri, Puneet Mathur - Concluding Statement</div>
           </td>
           <td class="schedule-mode mode-inperson">In-person</td>
-        </tr>
-        
-        <tr class="break-row">
-          <td class="schedule-time">12:20 - 12:30</td>
-          <td colspan="3"><span class="schedule-type type-buffer">Buffer</span> - Networking/Overrun buffer</td>
         </tr>
       </tbody>
     </table>
