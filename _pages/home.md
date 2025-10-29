@@ -369,10 +369,10 @@ Our workshop explores frameworks that ground document understanding through four
           <td class="schedule-time">11:30 - 12:05</td>
           <td><span class="schedule-type type-keynote">Keynote</span></td>
           <td>
-            <div class="schedule-title">Mohit Bansal - TBA</div>
+            <div class="schedule-title">Mohit Bansal - Multimodal Retrieval for Understanding and Generation </div>
             <div class="schedule-authors">30 min + 5 min Q&A</div>
           </td>
-          <td class="schedule-mode mode-inperson">In-person</td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
         </tr>
         
         <tr>
