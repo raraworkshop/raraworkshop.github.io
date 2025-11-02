@@ -322,7 +322,7 @@ Our workshop explores frameworks that ground document understanding through four
             <div class="schedule-title">Hamed Zamani - Retrieval-Augmented Reasoning</div>
             <div class="schedule-authors">30 min + 5 min Q&A</div>
           </td>
-          <td class="schedule-mode mode-inperson">In-person</td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
         </tr>
         
         <tr class="break-row">
