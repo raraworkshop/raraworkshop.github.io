@@ -294,16 +294,17 @@ Our workshop explores frameworks that ground document understanding through four
           </td>
           <td class="schedule-mode mode-virtual">Virtual</td>
         </tr>
-        
+
         <tr>
-          <td class="schedule-time">9:15 - 9:30</td>
+          <td class="schedule-time">12:05 - 12:20</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
-            <div class="schedule-title">"Lost-in-the-Later": Framework for Quantifying Contextual Grounding in Large Language Models</div>
-            <div class="schedule-authors">Yufei Tao, Adam Hiatt, Rahul Seetharaman, Ameeta Agrawal</div>
+            <div class="schedule-title">From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning</div>
+            <div class="schedule-authors">Ahmed Bahloul, Simon Malberg</div>
           </td>
-          <td class="schedule-mode mode-inperson">In-person</td>
+          <td class="schedule-mode mode-virtual">Virtual</td>
         </tr>
+        
         
         <tr>
           <td class="schedule-time">9:30 - 9:45</td>
@@ -376,11 +377,11 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         
         <tr>
-          <td class="schedule-time">12:05 - 12:20</td>
+          <td class="schedule-time">9:15 - 9:30</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
-            <div class="schedule-title">From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning</div>
-            <div class="schedule-authors">Ahmed Bahloul, Simon Malberg</div>
+            <div class="schedule-title">"Lost-in-the-Later": Framework for Quantifying Contextual Grounding in Large Language Models</div>
+            <div class="schedule-authors">Yufei Tao, Adam Hiatt, Rahul Seetharaman, Ameeta Agrawal</div>
           </td>
           <td class="schedule-mode mode-inperson">In-person</td>
         </tr>
