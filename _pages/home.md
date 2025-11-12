@@ -296,7 +296,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
 
         <tr>
-          <td class="schedule-time">12:05 - 12:20</td>
+          <td class="schedule-time">9:15 - 9:30</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
             <div class="schedule-title">From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning</div>
@@ -377,7 +377,7 @@ Our workshop explores frameworks that ground document understanding through four
         </tr>
         
         <tr>
-          <td class="schedule-time">9:15 - 9:30</td>
+          <td class="schedule-time">12:05 - 12:20</td>
           <td><span class="schedule-type type-paper">Paper</span></td>
           <td>
             <div class="schedule-title">"Lost-in-the-Later": Framework for Quantifying Contextual Grounding in Large Language Models</div>
